@@ -11,7 +11,7 @@ Additionally, the project includes visual data analysis and a barcode attendance
 
 ## Key Features
 
-- Data Analysis: Comprehensive exploratory data analysis (EDA) on student-related features such as exam scores, final grades, class, gender, and ethnicity.
+- Data Analysis: We had more than 30 features from our data, we did a Comprehensive exploratory data analysis (EDA) on student-related features such as exam scores, final grades, class, gender, and ethnicity.
 - Model Training: A machine learning model, primarily based on transformer architecture, was trained to predict students' pass/fail outcomes based on various input features.
 - Streamlit Application: A user-friendly interface for interacting with data, visualizing student performance, and displaying model predictions.
 - Barcode Attendance Tracker: A system to track student attendance via barcode scanning, linked to academic performance prediction.
