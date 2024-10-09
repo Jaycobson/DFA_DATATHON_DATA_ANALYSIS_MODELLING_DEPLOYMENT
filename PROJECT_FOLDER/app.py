@@ -37,7 +37,7 @@ encoders = {}
 
 # Load all encoders
 for col in encoded_columns:
-    with open(rf'{current_dir}\{col}_encoder.pkl', 'rb') as f:
+    with open(rf'{current_dir}/{col}_encoder.pkl', 'rb') as f:
         encoders[col] = pickle.load(f)
 
 
