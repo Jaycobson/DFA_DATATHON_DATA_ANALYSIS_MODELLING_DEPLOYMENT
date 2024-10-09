@@ -4,6 +4,20 @@ import numpy as np
 import pickle
 import os
 import pyodbc
+import cv2
+from pyzbar.pyzbar import decode
+from datetime import datetime
+import pandas as pd
+from barcode import generate
+from barcode.writer import ImageWriter
+import io
+import os
+import numpy as np
+import streamlit as st
+import psycopg2
+from psycopg2 import sql
+from psycopg2.extras import execute_values
+
 
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from collecting_data_from_db import getting
