@@ -8,5 +8,7 @@ matplotlib
 seaborn
 plotly
 opencv-python
+opencv-python-headless
+libgl1
 pyzbar
 python-barcode
