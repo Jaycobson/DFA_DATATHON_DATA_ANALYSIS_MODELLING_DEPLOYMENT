@@ -1,6 +1,4 @@
-# DFA_DATATHON_DATA_ANALYSIS_MODELLING_DEPLOYMENT
-
-# Student Academic Performance Prediction Project
+## Student Academic Performance Prediction Project
 
 ## Project Overview
 This project focuses on predicting student academic performance using machine learning models and conducting data analysis on student records. The project aims to provide actionable insights to educators, administrators, and stakeholders to improve student outcomes. We utilize a variety of machine learning techniques and present results through an interactive web application developed with Streamlit.
@@ -33,17 +31,18 @@ Install the dependencies in the requirements.txt
 
 The dataset used in this project is a randomly generated synthetic dataset (school_dataset.csv) that mimics real-world student records. The key features include:
 
-Class: The grade/class of the student.
-Gender: The gender of the student.
-Exam Score: The score a student received in an exam.
-Final Grade: The final grade for the academic year.
-Ethnicity: Ethnic background of the student.
-Disability Status: Whether the student has a disability or not.
-Target (Pass/Fail): The outcome variable indicating whether the student passed or failed.
-Data Analysis
+- Class: The grade/class of the student.
+- Gender: The gender of the student.
+- Exam Score: The score a student received in an exam.
+-Final Grade: The final grade for the academic year.
+- Ethnicity: Ethnic background of the student.
+- Disability Status: Whether the student has a disability or not.
+- Target (Pass/Fail): The outcome variable indicating whether the student passed or failed.
+  
+## Data Analysis
 The exploratory data analysis (EDA) provides insights into the distribution of key features, such as exam scores and final grades, and how they relate to the target variable (pass/fail). The analysis was performed in the Jupyter notebook located in the notebooks/ directory.
 
-Key Insights:
+## Key Insights:
 Gender Distribution: Visualized with bar plots, showing gender-based performance trends.
 Class and Exam Scores: Scatter plots illustrating relationships between exam scores and final grades across different classes.
 Pass/Fail Rates: Class-level success and failure rates visualized with funnel and sunburst charts.
@@ -52,7 +51,7 @@ The machine learning model used for predicting academic performance is a transfo
 
 
 
-Streamlit Application
+## Streamlit Application
 The Streamlit app provides an intuitive interface for users to interact with the data and model predictions. The app is located in the app/ directory and includes multiple data visualizations (bar charts, sunburst charts, scatter plots, etc.) that help stakeholders understand student performance trends.
 
 
