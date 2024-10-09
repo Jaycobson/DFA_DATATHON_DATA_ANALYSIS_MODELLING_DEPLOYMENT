@@ -7,7 +7,7 @@ scikit-learn
 matplotlib
 seaborn
 plotly
-opencv-python-headless==4.5.5.64
+opencv-python-headless
 libgl1
 pyzbar
 python-barcode
