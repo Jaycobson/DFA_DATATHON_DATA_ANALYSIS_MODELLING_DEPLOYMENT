@@ -19,18 +19,6 @@ Additionally, the project includes visual data analysis and a barcode attendance
 Prerequisites
 Make sure you have the following installed:
 
-Python 3.7+
-Required packages listed in requirements.txt:
-bash
-Copy code
-pandas
-numpy
-scikit-learn
-torch
-streamlit
-plotly
-matplotlib
-
 Install the dependencies in the requirements.txt
 
 The dataset used in this project is a randomly generated synthetic dataset (school_dataset.csv) that mimics real-world student records. The key features include:
