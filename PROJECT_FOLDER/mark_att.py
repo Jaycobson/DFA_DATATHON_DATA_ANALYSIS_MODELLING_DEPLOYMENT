@@ -1,6 +1,5 @@
 import cv2
-# from pyzbar.pyzbar import decode
-from pylibdmtx.pylibdmtx import decode
+from pyzbar.pyzbar import decode
 from datetime import datetime
 import pandas as pd
 from barcode import generate
