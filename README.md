@@ -1,5 +1,9 @@
 ## Student Academic Performance Prediction Project
 
+You can click on this link to  run our streamlit app
+
+[a streamlitapp](https://arrow-team-student-performance-st.streamlit.app/)
+
 ## Project Overview
 This project focuses on predicting student academic performance using machine learning models and conducting data analysis on student records. The project aims to provide actionable insights to educators, administrators, and stakeholders to improve student outcomes. We utilize a variety of machine learning techniques and present results through an interactive web application developed with Streamlit.
 
