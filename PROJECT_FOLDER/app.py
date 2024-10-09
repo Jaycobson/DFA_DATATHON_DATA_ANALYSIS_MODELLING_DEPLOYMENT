@@ -5,7 +5,7 @@ import pickle
 import os
 import pyodbc
 import cv2
-from pyzbar.pyzbar import decode
+
 from datetime import datetime
 import pandas as pd
 from barcode import generate
