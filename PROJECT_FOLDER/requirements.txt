@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 pyodbc
-zbar
 pyzbar
 python-barcode
 psycopg2-binary
