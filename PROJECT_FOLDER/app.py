@@ -9,12 +9,6 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 from collecting_data_from_db import getting
 
 
-# current_dir = 'PROJECT_FOLDER/encoders'
-# encoder_path = os.path.join(current_dir,'encoders')
-# model_path = os.path.join(current_dir,'models')
-# img_path = os.path.join(current_dir,'picture.png')
-# dataset_dir = os.path.join(current_dir, 'datasets')
-
 current_dir = os.path.dirname(os.path.abspath(__file__))
 encoder_path = os.path.normpath(os.path.join(current_dir, 'encoders')).replace('\\', '/')
 model_path = os.path.normpath(os.path.join(current_dir, 'models')).replace('\\', '/')
@@ -28,20 +22,15 @@ encoded_columns = ['class', 'gender', 'ethnicity', 'family_size', 'favorite_subj
 
 def load_scaler():
     img_path = os.path.join(current_dir,'picture.png')
-    with open(rf'{encoder_path}\scaler.pkl', 'rb') as f:
+    with open(rf'{encoder_path}/scaler.pkl', 'rb') as f:
         return pickle.load(f)
 
 def load_model():
-    with open(rf'{model_path}\best_model.pkl', 'rb') as f:
+    with open(rf'{model_path}/best_model.pkl', 'rb') as f:
         return pickle.load(f)
         
 # Dictionary to store the loaded encoders
 encoders = {}
-
-# # Load all encoders
-# for col in encoded_columns:
-#     with open(rf'{encoder_path}\{col}_encoder.pkl', 'rb') as f:
-#         encoders[col] = pickle.load(f)
 
 # Load all encoders
 for col in encoded_columns:
