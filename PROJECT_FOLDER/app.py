@@ -9,11 +9,19 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 from collecting_data_from_db import getting
 
 
-current_dir = 'PROJECT_FOLDER/encoders'
+# current_dir = 'PROJECT_FOLDER/encoders'
 # encoder_path = os.path.join(current_dir,'encoders')
-model_path = os.path.join(current_dir,'models')
-img_path = os.path.join(current_dir,'picture.png')
-dataset_dir = os.path.join(current_dir, 'datasets')
+# model_path = os.path.join(current_dir,'models')
+# img_path = os.path.join(current_dir,'picture.png')
+# dataset_dir = os.path.join(current_dir, 'datasets')
+
+current_dir = os.path.dirname(os.path.abspath(__file__))
+encoder_path = os.path.normpath(os.path.join(current_dir, 'encoders')).replace('\\', '/')
+model_path = os.path.normpath(os.path.join(current_dir, 'models')).replace('\\', '/')
+img_path = os.path.normpath(os.path.join(current_dir, 'picture.png')).replace('\\', '/')
+dataset_dir = os.path.normpath(os.path.join(current_dir, 'datasets')).replace('\\', '/')
+
+
 # List of columns that have encoders
 encoded_columns = ['class', 'gender', 'ethnicity', 'family_size', 'favorite_subjects', 'sleep', 'average_study_time', 'distance_to_school', 'mode_of_transportation', 'gender_parent', 'familyincomerange', 'numberofchildren', 'occupation', 'houseownership', 
 'educationlevel', 'maritalstatus', 'location', 'age_parent', 'employmentstatus', 'transportationmode', 'subject']
@@ -37,7 +45,7 @@ encoders = {}
 
 # Load all encoders
 for col in encoded_columns:
-    with open(rf'{current_dir}/{col}_encoder.pkl', 'rb') as f:
+    with open(rf'{encoder_path}/{col}_encoder.pkl', 'rb') as f:
         encoders[col] = pickle.load(f)
 
 
