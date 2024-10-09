@@ -18,14 +18,6 @@ dataset_dir = os.path.join(current_dir, 'datasets')
 encoded_columns = ['class', 'gender', 'ethnicity', 'family_size', 'favorite_subjects', 'sleep', 'average_study_time', 'distance_to_school', 'mode_of_transportation', 'gender_parent', 'familyincomerange', 'numberofchildren', 'occupation', 'houseownership', 
 'educationlevel', 'maritalstatus', 'location', 'age_parent', 'employmentstatus', 'transportationmode', 'subject']
 
-# Dictionary to store the loaded encoders
-encoders = {}
-
-# Load all encoders
-for col in encoded_columns:
-    with open(rf'{encoder_path}\{col}_encoder.pkl', 'rb') as f:
-        encoders[col] = pickle.load(f)
-
 def load_scaler():
     img_path = os.path.join(current_dir,'picture.png')
     with open(rf'{encoder_path}\scaler.pkl', 'rb') as f:
@@ -34,6 +26,16 @@ def load_scaler():
 def load_model():
     with open(rf'{model_path}\best_model.pkl', 'rb') as f:
         return pickle.load(f)
+        
+# Dictionary to store the loaded encoders
+encoders = {}
+
+# Load all encoders
+for col in encoded_columns:
+    with open(rf'{encoder_path}\{col}_encoder.pkl', 'rb') as f:
+        encoders[col] = pickle.load(f)
+
+
 
 # Prediction evaluation function
 def evaluate_prediction(prediction):
