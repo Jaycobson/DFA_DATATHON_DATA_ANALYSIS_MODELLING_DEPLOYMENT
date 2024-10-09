@@ -9,6 +9,7 @@ scikit-learn
 matplotlib
 seaborn
 plotly
+distutils
 opencv-python-headless
 pylibdmtx
 
