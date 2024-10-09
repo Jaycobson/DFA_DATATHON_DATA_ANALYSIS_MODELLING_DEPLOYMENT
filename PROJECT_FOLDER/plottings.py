@@ -29,7 +29,7 @@ def to_plot():
         # title_text="Distribution of Students In Each Class",
         width=500,
         height=500,
-        annotations=[dict(text='Classes', x=0.5, y=0.5, font_size=20, showarrow=False)],
+        annotations=[dict(text='Classes', x=0.5, y=0.5, font_size=17, showarrow=False)],
         legend=dict(
             x=1.2,
             y=0.5,
@@ -81,7 +81,7 @@ def to_plot():
         samp,
         y='count',
         x='gender',
-        width=200,
+        width=400,
         height=400,
         labels={'gender': 'Gender', 'count': 'Count'},
         # title='Gender Distribution in the Dataset',
@@ -112,7 +112,7 @@ def to_plot():
         samp,
         y='count',
         x='target',
-        width=200,
+        width=400,
         height=400,
         labels={'target': 'Pass/Fail', 'count': 'Count'},
         # title='Success Distribution in the Dataset',
@@ -146,6 +146,8 @@ def to_plot():
     funnel_fig = px.funnel(grouped_df,
                             x='Count',
                             y='class',
+                           width=400,
+                            height=400,
                             color='target',
                             # title="Funnel Chart of Pass and Fail Counts in Each Class",
                             labels={'Count': 'Number of Students', 'class': 'Class'},
@@ -157,6 +159,7 @@ def to_plot():
             y=0.5,
             traceorder="normal",
             font=dict(size=18),
+                                 
         ))
 
     # Display Funnel Chart
@@ -170,6 +173,8 @@ def to_plot():
         df,
         x='exam_score',  # Exam score on x-axis
         y='final_grade',  # Final grade on y-axis
+        width=400,
+        height=400,
         color='target',  # Color based on pass/fail
         # size='age',  # Size of points based on age
         # title="Scatter Chart of Final Grade vs. Exam Score",
@@ -202,7 +207,7 @@ def to_plot():
         samp,
         y='count',
         x='ethnicity',
-        width=200,
+        width=400,
         height=400,
         labels={'ethnicity': 'Ethnicity', 'count': 'Count'},
         # title='Gender Distribution in the Dataset',
@@ -235,7 +240,7 @@ def to_plot():
         samp,
         y='count',
         x='disability_status',
-        width=200,
+        width=500,
         height=400,
         labels={'disability_status': 'Disability Status', 'count': 'Count'},
         # title='Gender Distribution in the Dataset',
@@ -268,7 +273,7 @@ def to_plot():
         samp,
         y='count',
         x='qualification',
-        width=200,
+        width=500,
         height=400,
         labels={'qualification': 'Qualification', 'count': 'Count'},
         # title='Gender Distribution in the Dataset',
