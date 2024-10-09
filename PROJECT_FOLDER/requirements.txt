@@ -8,5 +8,6 @@ matplotlib
 seaborn
 plotly
 opencv-python
+cv2
 pyzbar
 python-barcode
