@@ -1,0 +1,26 @@
+teacher_id,teacher_name,teacher_email,salary_range,department,qualification,employmentstatus,gender,yearsofexperience,phone_number
+OGBTeacher/2024/0,Mrs. Amaka Adegoke,AmakaAdegoke@gmail.com,"#100,000 - #150,000",Geography,Masters,Full-time,Male,27,2345737789650
+OGBTeacher/2024/1,Mrs. Ndidi Ogunmola,NdidiOgunmola@gmail.com,"<#50,000",Computer Studies,Diploma,Part-time,Female,27,2342739036806
+OGBTeacher/2024/2,Mrs. Nkeiru Olaniyan,NkeiruOlaniyan@gmail.com,"#150,000+",History,PhD,Part-time,Male,20,2342119819986
+OGBTeacher/2024/3,Mrs. Gbenga Adebayo,GbengaAdebayo@gmail.com,"#50,001 - #100,000",Civic Education,PhD,Part-time,Female,10,2349229145004
+OGBTeacher/2024/4,Mr. Gbenga Chukwuma,GbengaChukwuma@gmail.com,"<#50,000",Computer Studies,Masters,Full-time,Female,6,2348565577212
+OGBTeacher/2024/5,Mrs. Aminat Omotayo,AminatOmotayo@gmail.com,"#50,001 - #100,000",Mathematics,PhD,Full-time,Female,21,2349298568776
+OGBTeacher/2024/6,Mr. Chioma Ogunmola,ChiomaOgunmola@gmail.com,"#50,001 - #100,000",Agricultural Science,PhD,Part-time,Female,8,2349353816138
+OGBTeacher/2024/7,Mrs. Chigozie Adebowale,ChigozieAdebowale@gmail.com,"#50,001 - #100,000",Computer Studies,Bachelors,Part-time,Female,21,2342671071007
+OGBTeacher/2024/8,Mrs. Chinedu Abayomi,ChineduAbayomi@gmail.com,"#100,000 - #150,000",Agricultural Science,Bachelors,Part-time,Male,5,2346033088298
+OGBTeacher/2024/9,Mrs. Ikemefuna Odusanya,IkemefunaOdusanya@gmail.com,"#100,000 - #150,000",Business Studies,PhD,Part-time,Male,22,2343983274325
+OGBTeacher/2024/10,Mr. Oluwadamilola Okafor,OluwadamilolaOkafor@gmail.com,"#50,001 - #100,000",Physics,PhD,Full-time,Male,18,2348243193820
+OGBTeacher/2024/11,Mrs. Olusegun Oyinlola,OlusegunOyinlola@gmail.com,"<#50,000",Biology,Diploma,Part-time,Male,24,2341439034681
+OGBTeacher/2024/12,Mr. Ezinne Balogun,EzinneBalogun@gmail.com,"#150,000+",History,Diploma,Part-time,Female,19,2348347036704
+OGBTeacher/2024/13,Mrs. Babajide Omotayo,BabajideOmotayo@gmail.com,"#100,000 - #150,000",Computer Studies,Bachelors,Full-time,Male,28,2346880804196
+OGBTeacher/2024/14,Mrs. Chinedu Onifade,ChineduOnifade@gmail.com,"<#50,000",Computer Studies,Diploma,Full-time,Female,9,2348068746644
+OGBTeacher/2024/15,Mr. Ndidi Ajayi,NdidiAjayi@gmail.com,"#100,000 - #150,000",Agricultural Science,Bachelors,Part-time,Female,26,2347523776106
+OGBTeacher/2024/16,Mr. Ibrahim Awolowo,IbrahimAwolowo@gmail.com,"#150,000+",Physics,PhD,Full-time,Female,13,2349402068322
+OGBTeacher/2024/17,Mrs. Emeka Onifade,EmekaOnifade@gmail.com,"<#50,000",Agricultural Science,Masters,Part-time,Female,27,2347694500686
+OGBTeacher/2024/18,Mrs. Seyi Sowande,SeyiSowande@gmail.com,"#100,000 - #150,000",Mathematics,Masters,Full-time,Male,28,2349657075293
+OGBTeacher/2024/19,Mrs. Bolaji Yusuf,BolajiYusuf@gmail.com,"#150,000+",Chemistry,Diploma,Part-time,Female,8,2348215987738
+OGBTeacher/2024/20,Mr. Emeka Awolowo,EmekaAwolowo@gmail.com,"#50,001 - #100,000",Chemistry,Diploma,Full-time,Female,28,2348837722577
+OGBTeacher/2024/21,Mr. Emeka Alabi,EmekaAlabi@gmail.com,"<#50,000",Mathematics,Diploma,Part-time,Female,7,2341962960506
+OGBTeacher/2024/22,Mrs. Bukola Abiola,BukolaAbiola@gmail.com,"#50,001 - #100,000",Geography,Diploma,Full-time,Male,18,2346128876188
+OGBTeacher/2024/23,Mr. Chukwuemeka Umeh,ChukwuemekaUmeh@gmail.com,"<#50,000",Mathematics,Masters,Full-time,Male,29,2343478044003
+OGBTeacher/2024/24,Mrs. Olufunke Adebanjo,OlufunkeAdebanjo@gmail.com,"#50,001 - #100,000",Computer Studies,Masters,Part-time,Female,30,2343079834001

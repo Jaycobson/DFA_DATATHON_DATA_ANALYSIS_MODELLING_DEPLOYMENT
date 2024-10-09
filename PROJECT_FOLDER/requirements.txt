@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+pyodbc
+psycopg2-binary
+scikit-learn
+matplotlib
+seaborn
+plotly
+opencv-python
+pyzbar
+python-barcode
