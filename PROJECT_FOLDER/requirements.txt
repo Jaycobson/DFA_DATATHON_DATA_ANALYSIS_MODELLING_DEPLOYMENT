@@ -9,5 +9,5 @@ scikit-learn
 matplotlib
 seaborn
 plotly
-opencv-python
+opencv-python-headless
 
