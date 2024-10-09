@@ -9,8 +9,8 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 from collecting_data_from_db import getting
 
 
-current_dir = 'PROJECT_FOLDER'
-encoder_path = os.path.join(current_dir,'encoders')
+current_dir = 'PROJECT_FOLDER/encoders'
+# encoder_path = os.path.join(current_dir,'encoders')
 model_path = os.path.join(current_dir,'models')
 img_path = os.path.join(current_dir,'picture.png')
 dataset_dir = os.path.join(current_dir, 'datasets')
@@ -30,9 +30,14 @@ def load_model():
 # Dictionary to store the loaded encoders
 encoders = {}
 
+# # Load all encoders
+# for col in encoded_columns:
+#     with open(rf'{encoder_path}\{col}_encoder.pkl', 'rb') as f:
+#         encoders[col] = pickle.load(f)
+
 # Load all encoders
 for col in encoded_columns:
-    with open(rf'{encoder_path}\{col}_encoder.pkl', 'rb') as f:
+    with open(rf'{current_dir}\{col}_encoder.pkl', 'rb') as f:
         encoders[col] = pickle.load(f)
 
 
