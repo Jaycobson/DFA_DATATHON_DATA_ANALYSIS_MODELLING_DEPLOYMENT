@@ -2,12 +2,12 @@ streamlit
 pandas
 numpy
 pyodbc
+pyzbar
+python-barcode
 psycopg2-binary
 scikit-learn
 matplotlib
 seaborn
 plotly
 opencv-python
-libgl1
-pyzbar
-python-barcode
+
