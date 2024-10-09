@@ -9,7 +9,7 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 from collecting_data_from_db import getting
 
 
-current_dir = os.path.dirname(os.path.abspath(__file__))
+current_dir = 'DFA_DATATHON_DATA_ANALYSIS_MODELLING_DEPLOYMENT/PROJECT_FOLDER'
 encoder_path = os.path.join(current_dir,'encoders')
 model_path = os.path.join(current_dir,'models')
 img_path = os.path.join(current_dir,'picture.png')
