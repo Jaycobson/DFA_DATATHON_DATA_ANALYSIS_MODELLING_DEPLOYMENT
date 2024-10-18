@@ -1,0 +1,501 @@
+parent_id,student_id,parent_name,gender,email,familyIncomeRange,numberOfChildren,occupation,houseOwnership,educationLevel,maritalStatus,location,age,workHoursPerWeek,employmentStatus,transportationMode,internetAccess,qualification,phone_number
+parent#1,OGB/2024/0,Doyin Balogun,Female,doyinbalogun@gmail.com,"#70, 001 - #120,000",1,Self Employed,Owned,High School,Widowed,Rural,older,34,Part-time,Trekking,False,Diploma,+2343137507466
+parent#2,OGB/2024/1,Adebisi Ajayi,Female,adebisiajayi@gmail.com,"#70, 001 - #120,000",0,Self Employed,Rent,Bachelor's Degree,Widowed,Urban,25-34,1,Full-time,Bus,False,Masters,+2345199687099
+parent#3,OGB/2024/2,Ifeanyichukwu Uba,Male,ifeanyichukwuuba@gmail.com,"<#30,000",3,Employed,Rent,Master's Degree,Divorced,Rural,25-34,3,Freelance,Trekking,False,PhD,+2343882025167
+parent#4,OGB/2024/3,Uche Ibrahim,Male,ucheibrahim@gmail.com,"#30,001 - #70,000",1,Unemployed,Owned,Associate Degree,Married,Urban,55-64,19,Full-time,Trekking,True,Masters,+2341172684301
+parent#5,OGB/2024/4,Tobi Aiyegbusi,Female,tobiaiyegbusi@gmail.com,"#120, 001 - #200,000",2,Employed,Owned,Associate Degree,Divorced,Suburban,35-44,24,Full-time,Bus,True,None,+2345287000043
+parent#6,OGB/2024/5,Chinwe Nwankwo,Female,chinwenwankwo@gmail.com,"#30,001 - #70,000",0,Self Employed,Rent,Master's Degree,Divorced,Urban,35-44,12,Full-time,Trekking,False,Masters,+2344199235874
+parent#7,OGB/2024/6,Damilola Ajibola,Female,damilolaajibola@gmail.com,"#120, 001 - #200,000",3,Self Employed,Owned,High School,Widowed,Suburban,55-64,22,Part-time,Bike,False,PhD,+2344140705527
+parent#8,OGB/2024/7,Nnamdi Nwosu,Female,nnamdinwosu@gmail.com,"#70, 001 - #120,000",5,Employed,Rent,High School,Divorced,Rural,35-44,34,Full-time,Car,True,Masters,+2348233017721
+parent#9,OGB/2024/8,Tobi Eze,Female,tobieze@gmail.com,"<#30,000",4,Self Employed,Owned,Bachelor's Degree,Divorced,Rural,35-44,3,Freelance,Bike,True,None,+2346231852874
+parent#10,OGB/2024/9,Bimbo Obadiah,Male,bimboobadiah@gmail.com,"#120, 001 - #200,000",3,Self Employed,Owned,Associate Degree,Married,Rural,55-64,52,Freelance,Trekking,False,PhD,+2345120590842
+parent#11,OGB/2024/10,Yemi Dada,Male,yemidada@gmail.com,"#70, 001 - #120,000",2,Self Employed,Owned,Associate Degree,Divorced,Suburban,35-44,52,Part-time,Bike,False,None,+2343467779677
+parent#12,OGB/2024/11,Kelechi Awojobi,Male,kelechiawojobi@gmail.com,">#200,001",2,Employed,Owned,High School,Single,Rural,55-64,43,Full-time,Bus,True,Diploma,+2343799687315
+parent#13,OGB/2024/12,Kanyinsola Adeola,Male,kanyinsolaadeola@gmail.com,"<#30,000",0,Unemployed,Rent,PhD,Divorced,Rural,55-64,55,Freelance,Trekking,False,Bachelors,+2344080507337
+parent#14,OGB/2024/13,Chika Ibrahim,Male,chikaibrahim@gmail.com,"#120, 001 - #200,000",4,Self Employed,Rent,Master's Degree,Divorced,Suburban,older,27,Freelance,Bike,True,Bachelors,+2345354065716
+parent#15,OGB/2024/14,Yemi Abubakar,Male,yemiabubakar@gmail.com,"#30,001 - #70,000",0,Self Employed,Rent,Bachelor's Degree,Widowed,Rural,35-44,47,Freelance,Bus,False,Bachelors,+2345754329742
+parent#16,OGB/2024/15,Ada Tajudeen,Female,adatajudeen@gmail.com,"#120, 001 - #200,000",2,Self Employed,Rent,High School,Married,Urban,35-44,32,Part-time,Bus,True,Bachelors,+2346181162701
+parent#17,OGB/2024/16,Nkechi Adeyemi,Female,nkechiadeyemi@gmail.com,">#200,001",3,Unemployed,Rent,High School,Widowed,Urban,45-54,33,Freelance,Bike,True,Bachelors,+2341620123277
+parent#18,OGB/2024/17,Zainab Hassan,Female,zainabhassan@gmail.com,"<#30,000",1,Unemployed,Rent,PhD,Divorced,Urban,25-34,54,Part-time,Car,True,Masters,+2344374115502
+parent#19,OGB/2024/18,Chika Aiyegbusi,Male,chikaaiyegbusi@gmail.com,"<#30,000",1,Self Employed,Rent,Master's Degree,Divorced,Rural,35-44,11,Freelance,Car,True,None,+2349026439798
+parent#20,OGB/2024/19,Zainab Ezeani,Female,zainabezeani@gmail.com,"#30,001 - #70,000",3,Self Employed,Rent,PhD,Married,Rural,45-54,32,Full-time,Car,False,Diploma,+2347060743623
+parent#21,OGB/2024/20,Nkechi Nwodo,Female,nkechinwodo@gmail.com,"#30,001 - #70,000",4,Unemployed,Rent,Associate Degree,Married,Rural,35-44,23,Full-time,Bike,False,Diploma,+2348216895937
+parent#22,OGB/2024/21,Temiloluwa Obinna,Male,temiloluwaobinna@gmail.com,"#120, 001 - #200,000",3,Employed,Owned,High School,Divorced,Suburban,55-64,43,Freelance,Trekking,False,Bachelors,+2343727525740
+parent#23,OGB/2024/22,Sadiq Hassan,Male,sadiqhassan@gmail.com,">#200,001",4,Self Employed,Owned,Bachelor's Degree,Married,Suburban,25-34,44,Full-time,Bike,False,Masters,+2346183086934
+parent#24,OGB/2024/23,Funke Onyekachi,Male,funkeonyekachi@gmail.com,"#30,001 - #70,000",2,Unemployed,Rent,PhD,Widowed,Suburban,older,2,Part-time,Bus,False,Bachelors,+2342516888774
+parent#25,OGB/2024/24,Ekene Ojo,Male,ekeneojo@gmail.com,">#200,001",0,Employed,Rent,Associate Degree,Single,Rural,35-44,58,Full-time,Bike,False,Bachelors,+2343844572111
+parent#26,OGB/2024/25,Kehinde Onyekachi,Male,kehindeonyekachi@gmail.com,"#120, 001 - #200,000",3,Self Employed,Rent,Bachelor's Degree,Single,Urban,35-44,13,Full-time,Trekking,False,Diploma,+2347399129028
+parent#27,OGB/2024/26,Chukwuemeka Onyekachi,Female,chukwuemekaonyekachi@gmail.com,"#30,001 - #70,000",2,Unemployed,Owned,High School,Married,Urban,55-64,6,Full-time,Car,False,Masters,+2349371505482
+parent#28,OGB/2024/27,Opeyemi Nwankwo,Male,opeyeminwankwo@gmail.com,"#70, 001 - #120,000",2,Employed,Owned,Associate Degree,Married,Suburban,35-44,29,Part-time,Trekking,False,Bachelors,+2342878836965
+parent#29,OGB/2024/28,Opeyemi Hassan,Male,opeyemihassan@gmail.com,"#30,001 - #70,000",0,Employed,Rent,Bachelor's Degree,Single,Suburban,45-54,60,Part-time,Bike,False,Masters,+2342082809647
+parent#30,OGB/2024/29,Kanyinsola Chukwuma,Female,kanyinsolachukwuma@gmail.com,"#30,001 - #70,000",0,Employed,Owned,Bachelor's Degree,Single,Urban,45-54,11,Part-time,Trekking,False,PhD,+2347155948235
+parent#31,OGB/2024/30,Duru Aiyegbusi,Male,duruaiyegbusi@gmail.com,">#200,001",5,Employed,Rent,Master's Degree,Widowed,Suburban,25-34,57,Part-time,Bus,False,PhD,+2341681203727
+parent#32,OGB/2024/31,Nkechi Olaniyi,Female,nkechiolaniyi@gmail.com,"<#30,000",3,Self Employed,Rent,PhD,Widowed,Suburban,25-34,14,Full-time,Bike,True,PhD,+2344580671460
+parent#33,OGB/2024/32,Ekene Obinna,Male,ekeneobinna@gmail.com,"#70, 001 - #120,000",5,Unemployed,Owned,Bachelor's Degree,Divorced,Suburban,older,45,Full-time,Car,False,None,+2348508995749
+parent#34,OGB/2024/33,Oluwaseun Tajudeen,Male,oluwaseuntajudeen@gmail.com,"#70, 001 - #120,000",3,Self Employed,Rent,Bachelor's Degree,Divorced,Urban,45-54,20,Freelance,Bike,False,Bachelors,+2347546741316
+parent#35,OGB/2024/34,Fola Adeola,Male,folaadeola@gmail.com,"<#30,000",1,Unemployed,Rent,PhD,Widowed,Rural,older,4,Freelance,Bike,True,Bachelors,+2346170452916
+parent#36,OGB/2024/35,Aderonke Nwankwo,Male,aderonkenwankwo@gmail.com,"#70, 001 - #120,000",2,Self Employed,Owned,Master's Degree,Single,Rural,25-34,45,Part-time,Car,False,Masters,+2342233557289
+parent#37,OGB/2024/36,Ijeoma Abiola,Male,ijeomaabiola@gmail.com,"#70, 001 - #120,000",1,Employed,Rent,Bachelor's Degree,Widowed,Suburban,older,13,Part-time,Car,False,PhD,+2346512359350
+parent#38,OGB/2024/37,Adebisi Akinyemi,Female,adebisiakinyemi@gmail.com,">#200,001",3,Self Employed,Rent,PhD,Married,Suburban,55-64,31,Freelance,Bus,True,PhD,+2346055434544
+parent#39,OGB/2024/38,Yemi Nduka,Female,yeminduka@gmail.com,"<#30,000",1,Self Employed,Rent,PhD,Married,Rural,35-44,13,Freelance,Trekking,False,Bachelors,+2344303059911
+parent#40,OGB/2024/39,Fisayo Abubakar,Female,fisayoabubakar@gmail.com,"#120, 001 - #200,000",4,Unemployed,Rent,Associate Degree,Divorced,Rural,55-64,36,Full-time,Car,False,Bachelors,+2349870374607
+parent#41,OGB/2024/40,Nkechi Olatunde,Male,nkechiolatunde@gmail.com,"#120, 001 - #200,000",2,Unemployed,Owned,High School,Divorced,Urban,45-54,40,Part-time,Car,False,None,+2347246725242
+parent#42,OGB/2024/41,Amina Obadiah,Female,aminaobadiah@gmail.com,"#120, 001 - #200,000",4,Self Employed,Owned,PhD,Married,Urban,25-34,39,Full-time,Bus,False,Bachelors,+2346258396060
+parent#43,OGB/2024/42,Ayo Okeke,Male,ayookeke@gmail.com,"#120, 001 - #200,000",4,Employed,Owned,Associate Degree,Single,Urban,older,0,Part-time,Bus,True,Bachelors,+2349005165377
+parent#44,OGB/2024/43,Olamide Ogunleye,Female,olamideogunleye@gmail.com,"#70, 001 - #120,000",3,Employed,Rent,High School,Married,Rural,older,2,Freelance,Car,False,None,+2348900454771
+parent#45,OGB/2024/44,Chinyere Okeke,Female,chinyereokeke@gmail.com,"#70, 001 - #120,000",4,Unemployed,Owned,Associate Degree,Widowed,Suburban,55-64,59,Freelance,Bus,False,Bachelors,+2349433203404
+parent#46,OGB/2024/45,Zainab Tajudeen,Female,zainabtajudeen@gmail.com,">#200,001",3,Self Employed,Owned,Bachelor's Degree,Married,Suburban,35-44,24,Part-time,Bus,True,Masters,+2342158092807
+parent#47,OGB/2024/46,Funke Fadeyi,Male,funkefadeyi@gmail.com,"#120, 001 - #200,000",0,Employed,Rent,Associate Degree,Divorced,Suburban,25-34,13,Part-time,Car,True,Masters,+2343063088799
+parent#48,OGB/2024/47,Oluwaseun Suleiman,Male,oluwaseunsuleiman@gmail.com,">#200,001",5,Employed,Rent,Bachelor's Degree,Divorced,Suburban,45-54,57,Full-time,Bike,False,Diploma,+2341573321170
+parent#49,OGB/2024/48,Kanyinsola Nwankwo,Female,kanyinsolanwankwo@gmail.com,"#70, 001 - #120,000",0,Self Employed,Owned,PhD,Widowed,Urban,45-54,44,Part-time,Bike,False,Diploma,+2344354403023
+parent#50,OGB/2024/49,Ololade Ogunyemi,Male,ololadeogunyemi@gmail.com,"<#30,000",5,Employed,Owned,High School,Widowed,Rural,25-34,7,Full-time,Bike,True,Bachelors,+2348066167622
+parent#51,OGB/2024/50,Doyin Dada,Female,doyindada@gmail.com,"#30,001 - #70,000",1,Unemployed,Owned,Associate Degree,Married,Urban,55-64,59,Full-time,Car,False,PhD,+2342651765604
+parent#52,OGB/2024/51,Temiloluwa Aiyegbusi,Male,temiloluwaaiyegbusi@gmail.com,"#120, 001 - #200,000",0,Unemployed,Owned,PhD,Single,Rural,45-54,18,Full-time,Trekking,False,None,+2341621448128
+parent#53,OGB/2024/52,Jumoke Ezeani,Female,jumokeezeani@gmail.com,"#120, 001 - #200,000",1,Employed,Owned,PhD,Divorced,Suburban,25-34,0,Freelance,Bike,False,PhD,+2345719458685
+parent#54,OGB/2024/53,Adebisi Okafor,Male,adebisiokafor@gmail.com,"#70, 001 - #120,000",0,Unemployed,Owned,Master's Degree,Married,Urban,55-64,57,Part-time,Car,False,None,+2342733941624
+parent#55,OGB/2024/54,Fisayo Chukwuma,Male,fisayochukwuma@gmail.com,"#30,001 - #70,000",0,Self Employed,Owned,Bachelor's Degree,Widowed,Rural,55-64,15,Freelance,Trekking,False,None,+2349860379131
+parent#56,OGB/2024/55,Chinonso Adesina,Female,chinonsoadesina@gmail.com,">#200,001",0,Employed,Rent,PhD,Married,Suburban,older,42,Part-time,Trekking,True,Bachelors,+2341460073271
+parent#57,OGB/2024/56,Chidera Idowu,Female,chideraidowu@gmail.com,">#200,001",4,Employed,Rent,PhD,Single,Urban,35-44,52,Full-time,Car,True,None,+2349155179392
+parent#58,OGB/2024/57,Opeyemi Onyekachi,Male,opeyemionyekachi@gmail.com,"#30,001 - #70,000",2,Employed,Owned,PhD,Divorced,Rural,55-64,58,Full-time,Trekking,False,PhD,+2344959218902
+parent#59,OGB/2024/58,Temitope Abiola,Female,temitopeabiola@gmail.com,">#200,001",1,Self Employed,Rent,Bachelor's Degree,Divorced,Suburban,45-54,53,Freelance,Trekking,True,Masters,+2347990142324
+parent#60,OGB/2024/59,Nneka Akanbi,Male,nnekaakanbi@gmail.com,"#120, 001 - #200,000",0,Self Employed,Owned,PhD,Single,Rural,35-44,21,Full-time,Bus,False,Bachelors,+2341014477641
+parent#61,OGB/2024/60,Ada Ogunyemi,Female,adaogunyemi@gmail.com,"#120, 001 - #200,000",4,Employed,Rent,Master's Degree,Married,Suburban,older,11,Freelance,Car,False,Diploma,+2345117248077
+parent#62,OGB/2024/61,Doyin Ojo,Female,doyinojo@gmail.com,"#70, 001 - #120,000",0,Unemployed,Rent,Associate Degree,Divorced,Suburban,25-34,24,Part-time,Bus,True,None,+2347673831101
+parent#63,OGB/2024/62,Obiageli Ogunbiyi,Male,obiageliogunbiyi@gmail.com,"#120, 001 - #200,000",2,Self Employed,Rent,Associate Degree,Widowed,Rural,25-34,52,Part-time,Trekking,False,PhD,+2347734298556
+parent#64,OGB/2024/63,Bola Kalu,Female,bolakalu@gmail.com,"#70, 001 - #120,000",1,Employed,Rent,High School,Single,Suburban,older,14,Freelance,Bus,True,Masters,+2345301240165
+parent#65,OGB/2024/64,Kelechi Ogunyemi,Male,kelechiogunyemi@gmail.com,">#200,001",4,Self Employed,Owned,Associate Degree,Widowed,Rural,older,23,Full-time,Car,True,None,+2341830728880
+parent#66,OGB/2024/65,Ngozi Ogunyemi,Female,ngoziogunyemi@gmail.com,"<#30,000",5,Self Employed,Owned,Associate Degree,Divorced,Urban,45-54,58,Part-time,Bike,False,Bachelors,+2348577019017
+parent#67,OGB/2024/66,Temitope Olowu,Male,temitopeolowu@gmail.com,"<#30,000",5,Unemployed,Rent,High School,Single,Rural,35-44,53,Freelance,Bus,True,Diploma,+2348750668758
+parent#68,OGB/2024/67,Kelechi Abubakar,Female,kelechiabubakar@gmail.com,"<#30,000",3,Employed,Owned,PhD,Divorced,Urban,55-64,25,Part-time,Bus,True,None,+2343517677005
+parent#69,OGB/2024/68,Zainab Nwosu,Female,zainabnwosu@gmail.com,"<#30,000",3,Self Employed,Rent,Associate Degree,Married,Rural,55-64,2,Full-time,Car,False,Masters,+2347995844776
+parent#70,OGB/2024/69,Aderonke Awojobi,Male,aderonkeawojobi@gmail.com,"<#30,000",3,Self Employed,Rent,Associate Degree,Widowed,Urban,55-64,9,Freelance,Car,True,PhD,+2342532820191
+parent#71,OGB/2024/70,Ololade Abubakar,Female,ololadeabubakar@gmail.com,">#200,001",0,Self Employed,Owned,Associate Degree,Single,Rural,25-34,9,Freelance,Car,False,Bachelors,+2346926717770
+parent#72,OGB/2024/71,Yemi Chukwuma,Male,yemichukwuma@gmail.com,"#120, 001 - #200,000",1,Employed,Rent,Master's Degree,Divorced,Urban,25-34,38,Part-time,Bus,False,Diploma,+2343682719160
+parent#73,OGB/2024/72,Amina Olaniyi,Female,aminaolaniyi@gmail.com,"<#30,000",5,Employed,Rent,High School,Divorced,Rural,45-54,15,Full-time,Trekking,True,PhD,+2344823625005
+parent#74,OGB/2024/73,Kehinde Ajibola,Male,kehindeajibola@gmail.com,"#120, 001 - #200,000",more than 5,Unemployed,Rent,Bachelor's Degree,Married,Urban,45-54,39,Part-time,Car,False,Masters,+2342394640559
+parent#75,OGB/2024/74,Chinwe Nduka,Female,chinwenduka@gmail.com,">#200,001",5,Employed,Owned,High School,Widowed,Rural,45-54,42,Part-time,Car,False,Diploma,+2348979174969
+parent#76,OGB/2024/75,Nnamdi Adeyemi,Male,nnamdiadeyemi@gmail.com,">#200,001",2,Employed,Rent,High School,Single,Urban,older,16,Full-time,Bus,False,Diploma,+2346827758031
+parent#77,OGB/2024/76,Bola Kalu,Male,bolakalu@gmail.com,"<#30,000",3,Employed,Rent,Associate Degree,Married,Rural,45-54,56,Freelance,Bus,False,PhD,+2344259564609
+parent#78,OGB/2024/77,Bimbo Okwudili,Male,bimbookwudili@gmail.com,"#120, 001 - #200,000",1,Employed,Owned,PhD,Widowed,Suburban,55-64,59,Part-time,Bus,False,None,+2347581977205
+parent#79,OGB/2024/78,Bukola Balogun,Female,bukolabalogun@gmail.com,">#200,001",1,Employed,Owned,Master's Degree,Single,Rural,45-54,27,Freelance,Bus,True,PhD,+2343118065477
+parent#80,OGB/2024/79,Doyin Balogun,Male,doyinbalogun@gmail.com,">#200,001",more than 5,Self Employed,Owned,Master's Degree,Divorced,Rural,45-54,43,Full-time,Bike,False,PhD,+2343415641122
+parent#81,OGB/2024/80,Fisayo Okafor,Female,fisayookafor@gmail.com,"<#30,000",1,Unemployed,Owned,Master's Degree,Divorced,Urban,25-34,36,Part-time,Bike,True,Diploma,+2343962364793
+parent#82,OGB/2024/81,Ifeanyichukwu Awojobi,Male,ifeanyichukwuawojobi@gmail.com,"#70, 001 - #120,000",2,Employed,Rent,Bachelor's Degree,Widowed,Urban,25-34,45,Part-time,Trekking,False,Diploma,+2344847969893
+parent#83,OGB/2024/82,Bola Dada,Female,boladada@gmail.com,"#120, 001 - #200,000",5,Self Employed,Owned,Bachelor's Degree,Divorced,Rural,25-34,55,Full-time,Trekking,True,Masters,+2346288412270
+parent#84,OGB/2024/83,Ugo Ogundipe,Male,ugoogundipe@gmail.com,"#30,001 - #70,000",2,Employed,Rent,PhD,Married,Suburban,55-64,57,Full-time,Car,False,PhD,+2344721810600
+parent#85,OGB/2024/84,Funke Akanbi,Male,funkeakanbi@gmail.com,"#30,001 - #70,000",5,Employed,Owned,High School,Single,Suburban,35-44,40,Freelance,Bike,False,PhD,+2346175261010
+parent#86,OGB/2024/85,Nkemdilim Obi,Female,nkemdilimobi@gmail.com,"#120, 001 - #200,000",4,Self Employed,Rent,Associate Degree,Single,Suburban,older,19,Full-time,Trekking,True,Masters,+2341311831661
+parent#87,OGB/2024/86,Oluwaseun Adeyemi,Male,oluwaseunadeyemi@gmail.com,">#200,001",2,Employed,Owned,PhD,Married,Suburban,55-64,13,Freelance,Car,True,Masters,+2341582918332
+parent#88,OGB/2024/87,Kanyinsola Ogunyemi,Male,kanyinsolaogunyemi@gmail.com,"#120, 001 - #200,000",5,Employed,Rent,Master's Degree,Divorced,Rural,35-44,60,Part-time,Trekking,True,Diploma,+2344169790997
+parent#89,OGB/2024/88,Ugo Okwudili,Male,ugookwudili@gmail.com,"<#30,000",0,Self Employed,Owned,Master's Degree,Single,Urban,older,56,Part-time,Car,False,Masters,+2346233290778
+parent#90,OGB/2024/89,Obiageli Onyekachi,Male,obiagelionyekachi@gmail.com,"#30,001 - #70,000",0,Unemployed,Owned,Master's Degree,Married,Rural,55-64,41,Part-time,Car,False,Masters,+2341415994170
+parent#91,OGB/2024/90,Ijeoma Ajibola,Female,ijeomaajibola@gmail.com,"#120, 001 - #200,000",1,Unemployed,Rent,Master's Degree,Divorced,Suburban,45-54,47,Part-time,Bus,False,Bachelors,+2342101472470
+parent#92,OGB/2024/91,Yemi Aiyegbusi,Male,yemiaiyegbusi@gmail.com,"<#30,000",4,Unemployed,Rent,Bachelor's Degree,Widowed,Urban,25-34,58,Part-time,Car,False,Bachelors,+2342757235114
+parent#93,OGB/2024/92,Obinna Okeke,Female,obinnaokeke@gmail.com,"#70, 001 - #120,000",5,Employed,Owned,Bachelor's Degree,Widowed,Urban,55-64,17,Full-time,Bus,False,Bachelors,+2349552635305
+parent#94,OGB/2024/93,Ekene Ojo,Female,ekeneojo@gmail.com,"#120, 001 - #200,000",4,Unemployed,Owned,PhD,Divorced,Rural,older,26,Part-time,Bus,True,None,+2349116635925
+parent#95,OGB/2024/94,Bola Okafor,Male,bolaokafor@gmail.com,"#120, 001 - #200,000",3,Unemployed,Owned,Bachelor's Degree,Widowed,Rural,older,44,Freelance,Trekking,False,Bachelors,+2344835847054
+parent#96,OGB/2024/95,Opeyemi Okwudili,Male,opeyemiokwudili@gmail.com,"#120, 001 - #200,000",5,Unemployed,Rent,PhD,Widowed,Suburban,older,0,Freelance,Car,True,Masters,+2345696473543
+parent#97,OGB/2024/96,Chika Okwudili,Male,chikaokwudili@gmail.com,"<#30,000",2,Employed,Owned,High School,Married,Suburban,55-64,26,Part-time,Bike,False,Bachelors,+2344966690762
+parent#98,OGB/2024/97,Chukwuemeka Ibrahim,Male,chukwuemekaibrahim@gmail.com,"#70, 001 - #120,000",more than 5,Unemployed,Rent,PhD,Divorced,Rural,older,52,Freelance,Car,False,Diploma,+2343627549477
+parent#99,OGB/2024/98,Chinwe Fadeyi,Female,chinwefadeyi@gmail.com,"#30,001 - #70,000",5,Self Employed,Owned,Associate Degree,Divorced,Rural,older,26,Full-time,Bike,True,Masters,+2342035989065
+parent#100,OGB/2024/99,Damilola Nwankwo,Female,damilolanwankwo@gmail.com,">#200,001",1,Employed,Owned,Associate Degree,Divorced,Rural,55-64,24,Part-time,Bus,False,Masters,+2344129590603
+parent#101,OGB/2024/100,Chukwuemeka Ajayi,Male,chukwuemekaajayi@gmail.com,"#70, 001 - #120,000",1,Self Employed,Rent,Bachelor's Degree,Divorced,Suburban,25-34,17,Freelance,Trekking,False,Bachelors,+2345261711194
+parent#102,OGB/2024/101,Ifeanyichukwu Balogun,Male,ifeanyichukwubalogun@gmail.com,"#70, 001 - #120,000",2,Self Employed,Owned,Associate Degree,Widowed,Urban,older,53,Full-time,Bus,False,PhD,+2348712568483
+parent#103,OGB/2024/102,Bimbo Obinna,Male,bimboobinna@gmail.com,"#70, 001 - #120,000",5,Unemployed,Owned,Master's Degree,Single,Suburban,25-34,57,Full-time,Bus,False,PhD,+2349106614502
+parent#104,OGB/2024/103,Olamide Okwudili,Male,olamideokwudili@gmail.com,"#70, 001 - #120,000",0,Employed,Rent,PhD,Widowed,Rural,older,12,Freelance,Car,True,PhD,+2341429898519
+parent#105,OGB/2024/104,Damilola Adeyemi,Male,damilolaadeyemi@gmail.com,"#120, 001 - #200,000",1,Unemployed,Rent,Master's Degree,Widowed,Suburban,25-34,52,Full-time,Bike,True,None,+2347767471712
+parent#106,OGB/2024/105,Chinwe Olatunde,Male,chinweolatunde@gmail.com,"#30,001 - #70,000",1,Unemployed,Rent,Master's Degree,Single,Urban,older,49,Freelance,Bike,True,Masters,+2345295366353
+parent#107,OGB/2024/106,Damilola Ogunyemi,Male,damilolaogunyemi@gmail.com,"<#30,000",2,Unemployed,Owned,Bachelor's Degree,Single,Rural,25-34,31,Freelance,Bike,True,Diploma,+2348285892694
+parent#108,OGB/2024/107,Uche Abubakar,Female,ucheabubakar@gmail.com,"#120, 001 - #200,000",3,Employed,Rent,High School,Widowed,Suburban,25-34,16,Full-time,Trekking,False,Diploma,+2349309279227
+parent#109,OGB/2024/108,Kehinde Chukwuma,Male,kehindechukwuma@gmail.com,"<#30,000",1,Self Employed,Owned,PhD,Divorced,Urban,35-44,38,Part-time,Bus,True,Diploma,+2348530483779
+parent#110,OGB/2024/109,Bukola Chukwuma,Male,bukolachukwuma@gmail.com,"<#30,000",0,Self Employed,Owned,Master's Degree,Widowed,Urban,45-54,0,Part-time,Bus,True,Bachelors,+2341705638884
+parent#111,OGB/2024/110,Damilola Abiola,Male,damilolaabiola@gmail.com,"<#30,000",5,Unemployed,Owned,Bachelor's Degree,Married,Urban,older,40,Full-time,Bike,True,None,+2344173554352
+parent#112,OGB/2024/111,Ayo Obadiah,Male,ayoobadiah@gmail.com,"#30,001 - #70,000",3,Unemployed,Owned,Associate Degree,Married,Suburban,older,44,Part-time,Bike,False,None,+2343455450949
+parent#113,OGB/2024/112,Aderonke Ojo,Female,aderonkeojo@gmail.com,"#70, 001 - #120,000",3,Employed,Rent,High School,Widowed,Suburban,55-64,25,Part-time,Bus,True,PhD,+2348160992941
+parent#114,OGB/2024/113,Amina Ajayi,Male,aminaajayi@gmail.com,">#200,001",2,Self Employed,Rent,Bachelor's Degree,Divorced,Urban,55-64,2,Part-time,Bike,False,Masters,+2341826972878
+parent#115,OGB/2024/114,Damilola Idowu,Male,damilolaidowu@gmail.com,">#200,001",0,Unemployed,Owned,Master's Degree,Married,Suburban,25-34,44,Full-time,Bike,True,Diploma,+2344531811853
+parent#116,OGB/2024/115,Ololade Balogun,Male,ololadebalogun@gmail.com,"#70, 001 - #120,000",1,Unemployed,Owned,Bachelor's Degree,Single,Urban,45-54,49,Freelance,Trekking,True,Bachelors,+2349784084995
+parent#117,OGB/2024/116,Ijeoma Ogunleye,Female,ijeomaogunleye@gmail.com,"#70, 001 - #120,000",2,Employed,Rent,Master's Degree,Divorced,Rural,55-64,28,Freelance,Car,False,PhD,+2341770480897
+parent#118,OGB/2024/117,Adebisi Abubakar,Female,adebisiabubakar@gmail.com,"#30,001 - #70,000",0,Unemployed,Owned,Associate Degree,Divorced,Rural,55-64,8,Part-time,Bike,True,Masters,+2344553129661
+parent#119,OGB/2024/118,Duru Adeola,Male,duruadeola@gmail.com,">#200,001",1,Self Employed,Rent,PhD,Divorced,Suburban,older,42,Freelance,Trekking,True,Diploma,+2341848877400
+parent#120,OGB/2024/119,Kanyinsola Ogunleye,Female,kanyinsolaogunleye@gmail.com,"#120, 001 - #200,000",5,Self Employed,Rent,PhD,Divorced,Rural,older,44,Part-time,Car,True,Masters,+2346561982502
+parent#121,OGB/2024/120,Ada Ajibola,Female,adaajibola@gmail.com,"#30,001 - #70,000",more than 5,Employed,Owned,Associate Degree,Widowed,Suburban,25-34,14,Part-time,Trekking,True,PhD,+2349853109380
+parent#122,OGB/2024/121,Obinna Awojobi,Female,obinnaawojobi@gmail.com,">#200,001",more than 5,Employed,Rent,Master's Degree,Widowed,Rural,55-64,4,Part-time,Trekking,True,Bachelors,+2342930446141
+parent#123,OGB/2024/122,Doyin Abiola,Male,doyinabiola@gmail.com,"#120, 001 - #200,000",0,Unemployed,Rent,Bachelor's Degree,Married,Rural,55-64,40,Freelance,Bus,False,Bachelors,+2343657065261
+parent#124,OGB/2024/123,Obiageli Johnson,Male,obiagelijohnson@gmail.com,"#30,001 - #70,000",4,Unemployed,Rent,Associate Degree,Single,Urban,25-34,7,Part-time,Bus,False,Bachelors,+2341135252403
+parent#125,OGB/2024/124,Kehinde Nwankwo,Male,kehindenwankwo@gmail.com,">#200,001",2,Self Employed,Owned,High School,Single,Rural,35-44,7,Part-time,Car,False,PhD,+2344109822170
+parent#126,OGB/2024/125,Temitope Uba,Female,temitopeuba@gmail.com,"#120, 001 - #200,000",3,Unemployed,Owned,Associate Degree,Divorced,Suburban,older,10,Freelance,Car,False,Diploma,+2348563835154
+parent#127,OGB/2024/126,Chidera Adebayo,Male,chideraadebayo@gmail.com,"<#30,000",4,Employed,Owned,Master's Degree,Widowed,Rural,35-44,57,Part-time,Trekking,True,Masters,+2342854663638
+parent#128,OGB/2024/127,Duru Nduka,Male,durunduka@gmail.com,">#200,001",0,Self Employed,Rent,Bachelor's Degree,Widowed,Rural,25-34,50,Full-time,Car,True,Diploma,+2343954581592
+parent#129,OGB/2024/128,Obiageli Eze,Male,obiagelieze@gmail.com,"#120, 001 - #200,000",3,Self Employed,Rent,PhD,Married,Urban,45-54,31,Part-time,Bus,True,Diploma,+2345978162882
+parent#130,OGB/2024/129,Doyin Okafor,Male,doyinokafor@gmail.com,"#30,001 - #70,000",more than 5,Unemployed,Rent,Associate Degree,Divorced,Urban,25-34,4,Freelance,Bus,False,Diploma,+2342623867626
+parent#131,OGB/2024/130,Doyin Awojobi,Female,doyinawojobi@gmail.com,"#120, 001 - #200,000",1,Employed,Owned,High School,Widowed,Urban,45-54,11,Part-time,Bike,False,PhD,+2346031017972
+parent#132,OGB/2024/131,Jumoke Obadiah,Male,jumokeobadiah@gmail.com,"#30,001 - #70,000",3,Employed,Rent,PhD,Single,Urban,55-64,34,Freelance,Bus,True,Diploma,+2349740814656
+parent#133,OGB/2024/132,Fola Kalu,Female,folakalu@gmail.com,"#120, 001 - #200,000",0,Employed,Rent,Bachelor's Degree,Widowed,Suburban,25-34,20,Full-time,Bike,True,Masters,+2342805418091
+parent#134,OGB/2024/133,Sadiq Adeola,Male,sadiqadeola@gmail.com,"#70, 001 - #120,000",0,Unemployed,Rent,Bachelor's Degree,Single,Urban,55-64,10,Part-time,Bike,True,PhD,+2341676604772
+parent#135,OGB/2024/134,Chinonso Johnson,Male,chinonsojohnson@gmail.com,">#200,001",more than 5,Unemployed,Rent,High School,Widowed,Urban,45-54,60,Part-time,Trekking,False,Diploma,+2341314447563
+parent#136,OGB/2024/135,Ada Aiyegbusi,Male,adaaiyegbusi@gmail.com,"#30,001 - #70,000",0,Self Employed,Owned,Bachelor's Degree,Married,Urban,45-54,47,Part-time,Car,True,PhD,+2342782638387
+parent#137,OGB/2024/136,Ihuoma Adeyemi,Male,ihuomaadeyemi@gmail.com,"#120, 001 - #200,000",4,Self Employed,Owned,Bachelor's Degree,Married,Rural,45-54,16,Full-time,Bus,True,None,+2342866672076
+parent#138,OGB/2024/137,Tunde Onyekachi,Male,tundeonyekachi@gmail.com,"#30,001 - #70,000",5,Self Employed,Owned,PhD,Widowed,Rural,45-54,43,Part-time,Bike,False,Masters,+2346008744392
+parent#139,OGB/2024/138,Ololade Dada,Female,ololadedada@gmail.com,"<#30,000",2,Employed,Rent,High School,Single,Urban,35-44,45,Freelance,Bus,True,Bachelors,+2342945857110
+parent#140,OGB/2024/139,Ada Ojo,Female,adaojo@gmail.com,"#30,001 - #70,000",more than 5,Self Employed,Owned,PhD,Single,Urban,45-54,59,Full-time,Car,True,Masters,+2347223659197
+parent#141,OGB/2024/140,Bola Chukwuma,Male,bolachukwuma@gmail.com,">#200,001",1,Unemployed,Rent,Bachelor's Degree,Married,Rural,55-64,44,Freelance,Bike,True,PhD,+2347206553278
+parent#142,OGB/2024/141,Obinna Tajudeen,Female,obinnatajudeen@gmail.com,"<#30,000",4,Unemployed,Owned,High School,Divorced,Suburban,25-34,25,Part-time,Car,True,Diploma,+2346651018198
+parent#143,OGB/2024/142,Fola Awojobi,Female,folaawojobi@gmail.com,">#200,001",4,Employed,Rent,Bachelor's Degree,Single,Urban,45-54,18,Freelance,Bus,False,Bachelors,+2343603958409
+parent#144,OGB/2024/143,Jumoke Ogundipe,Male,jumokeogundipe@gmail.com,"#120, 001 - #200,000",1,Unemployed,Owned,Master's Degree,Single,Suburban,55-64,34,Full-time,Bus,False,Diploma,+2344588976489
+parent#145,OGB/2024/144,Ololade Obi,Female,ololadeobi@gmail.com,"#70, 001 - #120,000",more than 5,Self Employed,Owned,Master's Degree,Widowed,Suburban,45-54,18,Full-time,Bike,True,PhD,+2346137939009
+parent#146,OGB/2024/145,Oluwaseun Adebayo,Male,oluwaseunadebayo@gmail.com,">#200,001",1,Employed,Rent,High School,Widowed,Urban,35-44,18,Full-time,Bus,True,Masters,+2346564277090
+parent#147,OGB/2024/146,Bukola Ogunleye,Female,bukolaogunleye@gmail.com,"#30,001 - #70,000",more than 5,Unemployed,Rent,Bachelor's Degree,Divorced,Rural,35-44,54,Full-time,Trekking,True,Bachelors,+2343497104816
+parent#148,OGB/2024/147,Ololade Ojo,Male,ololadeojo@gmail.com,"#70, 001 - #120,000",0,Unemployed,Rent,Bachelor's Degree,Single,Urban,older,36,Full-time,Trekking,False,Masters,+2341231035712
+parent#149,OGB/2024/148,Ngozi Adeola,Male,ngoziadeola@gmail.com,"#30,001 - #70,000",0,Employed,Owned,High School,Widowed,Urban,older,16,Full-time,Bike,True,Masters,+2344681542027
+parent#150,OGB/2024/149,Opeyemi Nduka,Male,opeyeminduka@gmail.com,"<#30,000",2,Unemployed,Owned,PhD,Divorced,Suburban,45-54,6,Full-time,Trekking,True,None,+2347700427495
+parent#151,OGB/2024/150,Ekene Akinyemi,Male,ekeneakinyemi@gmail.com,"<#30,000",more than 5,Employed,Owned,High School,Divorced,Urban,55-64,48,Part-time,Trekking,False,None,+2344507718470
+parent#152,OGB/2024/151,Doyin Abubakar,Female,doyinabubakar@gmail.com,"<#30,000",5,Employed,Owned,Master's Degree,Divorced,Suburban,45-54,7,Full-time,Bus,True,Diploma,+2349816845002
+parent#153,OGB/2024/152,Fisayo Ojo,Female,fisayoojo@gmail.com,"#120, 001 - #200,000",2,Unemployed,Owned,PhD,Married,Suburban,35-44,25,Full-time,Trekking,True,PhD,+2344761528424
+parent#154,OGB/2024/153,Olufemi Ogunyemi,Male,olufemiogunyemi@gmail.com,"<#30,000",3,Unemployed,Owned,Master's Degree,Divorced,Urban,55-64,52,Freelance,Trekking,True,Masters,+2344431433612
+parent#155,OGB/2024/154,Fisayo Suleiman,Female,fisayosuleiman@gmail.com,">#200,001",3,Unemployed,Owned,Master's Degree,Widowed,Urban,25-34,56,Full-time,Bike,False,Masters,+2349807939295
+parent#156,OGB/2024/155,Nkemdilim Akinyemi,Male,nkemdilimakinyemi@gmail.com,"#30,001 - #70,000",5,Unemployed,Rent,Associate Degree,Single,Suburban,45-54,56,Full-time,Bus,True,Diploma,+2341318570313
+parent#157,OGB/2024/156,Ayo Adesina,Female,ayoadesina@gmail.com,"<#30,000",2,Unemployed,Rent,Master's Degree,Widowed,Urban,45-54,12,Full-time,Car,True,Bachelors,+2345653888632
+parent#158,OGB/2024/157,Doyin Akanbi,Male,doyinakanbi@gmail.com,">#200,001",4,Self Employed,Rent,PhD,Widowed,Urban,older,60,Full-time,Car,True,Bachelors,+2345696703644
+parent#159,OGB/2024/158,Chinyere Nwankwo,Male,chinyerenwankwo@gmail.com,">#200,001",2,Self Employed,Rent,High School,Widowed,Suburban,older,5,Freelance,Car,False,PhD,+2346416555890
+parent#160,OGB/2024/159,Ekene Dada,Male,ekenedada@gmail.com,"<#30,000",5,Employed,Rent,High School,Divorced,Urban,35-44,35,Full-time,Car,False,PhD,+2343357539470
+parent#161,OGB/2024/160,Chika Nwosu,Male,chikanwosu@gmail.com,">#200,001",3,Employed,Owned,Bachelor's Degree,Widowed,Suburban,45-54,54,Freelance,Car,False,None,+2344556705841
+parent#162,OGB/2024/161,Funke Aiyegbusi,Female,funkeaiyegbusi@gmail.com,"#120, 001 - #200,000",2,Unemployed,Owned,High School,Single,Urban,45-54,31,Part-time,Car,False,PhD,+2345484025579
+parent#163,OGB/2024/162,Uche Adeyemi,Female,ucheadeyemi@gmail.com,"<#30,000",2,Self Employed,Owned,PhD,Single,Suburban,25-34,12,Freelance,Bike,True,PhD,+2344598759233
+parent#164,OGB/2024/163,Nnamdi Okwudili,Male,nnamdiokwudili@gmail.com,"#30,001 - #70,000",3,Unemployed,Owned,Associate Degree,Widowed,Rural,25-34,8,Full-time,Car,True,Bachelors,+2344393144996
+parent#165,OGB/2024/164,Temitope Balogun,Female,temitopebalogun@gmail.com,"#120, 001 - #200,000",0,Employed,Owned,Associate Degree,Divorced,Rural,55-64,33,Full-time,Bike,True,Bachelors,+2349973832043
+parent#166,OGB/2024/165,Obiageli Okafor,Male,obiageliokafor@gmail.com,"#70, 001 - #120,000",more than 5,Employed,Rent,Associate Degree,Married,Urban,45-54,2,Freelance,Trekking,True,Diploma,+2342899868676
+parent#167,OGB/2024/166,Oluwaseun Balogun,Female,oluwaseunbalogun@gmail.com,"#30,001 - #70,000",2,Employed,Owned,High School,Divorced,Suburban,older,30,Freelance,Trekking,False,None,+2349934205769
+parent#168,OGB/2024/167,Amina Adesina,Female,aminaadesina@gmail.com,"#30,001 - #70,000",2,Employed,Rent,Master's Degree,Widowed,Urban,55-64,30,Part-time,Bus,False,Masters,+2348559742010
+parent#169,OGB/2024/168,Obinna Ogunbiyi,Female,obinnaogunbiyi@gmail.com,"#30,001 - #70,000",5,Employed,Rent,High School,Single,Suburban,35-44,6,Freelance,Car,False,Masters,+2342979547011
+parent#170,OGB/2024/169,Duru Eze,Male,durueze@gmail.com,"#70, 001 - #120,000",2,Self Employed,Owned,High School,Married,Suburban,55-64,7,Part-time,Car,True,Masters,+2348221295771
+parent#171,OGB/2024/170,Zainab Abubakar,Female,zainababubakar@gmail.com,"#30,001 - #70,000",4,Unemployed,Owned,Master's Degree,Widowed,Suburban,35-44,14,Freelance,Bike,False,PhD,+2342450330956
+parent#172,OGB/2024/171,Ayo Nwosu,Female,ayonwosu@gmail.com,">#200,001",more than 5,Unemployed,Owned,High School,Widowed,Urban,45-54,2,Full-time,Bus,False,None,+2341130341144
+parent#173,OGB/2024/172,Nnamdi Onyekachi,Female,nnamdionyekachi@gmail.com,"#30,001 - #70,000",5,Employed,Rent,Bachelor's Degree,Widowed,Urban,55-64,53,Freelance,Bus,True,PhD,+2342385112390
+parent#174,OGB/2024/173,Sadiq Ogunbiyi,Female,sadiqogunbiyi@gmail.com,"#120, 001 - #200,000",more than 5,Self Employed,Owned,High School,Widowed,Suburban,45-54,24,Full-time,Trekking,False,None,+2343516165957
+parent#175,OGB/2024/174,Tobi Okeke,Male,tobiokeke@gmail.com,"#70, 001 - #120,000",more than 5,Employed,Owned,PhD,Single,Rural,45-54,11,Full-time,Bike,True,Diploma,+2349944838922
+parent#176,OGB/2024/175,Doyin Ibrahim,Male,doyinibrahim@gmail.com,"<#30,000",more than 5,Self Employed,Owned,Bachelor's Degree,Married,Urban,55-64,5,Freelance,Car,False,None,+2346112823642
+parent#177,OGB/2024/176,Bukola Akinyemi,Male,bukolaakinyemi@gmail.com,"#70, 001 - #120,000",4,Self Employed,Owned,Associate Degree,Single,Urban,45-54,48,Full-time,Bike,False,None,+2345716993348
+parent#178,OGB/2024/177,Jumoke Eze,Male,jumokeeze@gmail.com,"<#30,000",3,Employed,Owned,PhD,Single,Urban,35-44,44,Full-time,Trekking,False,None,+2342595749987
+parent#179,OGB/2024/178,Bimbo Nduka,Female,bimbonduka@gmail.com,"#30,001 - #70,000",0,Employed,Rent,High School,Married,Rural,35-44,51,Freelance,Car,False,None,+2343597900199
+parent#180,OGB/2024/179,Sadiq Dada,Male,sadiqdada@gmail.com,"<#30,000",2,Unemployed,Rent,Bachelor's Degree,Widowed,Rural,45-54,4,Full-time,Bike,True,Masters,+2344089049607
+parent#181,OGB/2024/180,Ijeoma Olatunde,Female,ijeomaolatunde@gmail.com,">#200,001",5,Unemployed,Rent,Bachelor's Degree,Married,Rural,25-34,15,Full-time,Car,False,Diploma,+2349540125459
+parent#182,OGB/2024/181,Chukwuemeka Olatunde,Female,chukwuemekaolatunde@gmail.com,"<#30,000",4,Self Employed,Rent,Associate Degree,Divorced,Rural,25-34,27,Full-time,Car,False,Bachelors,+2346638622165
+parent#183,OGB/2024/182,Chidera Awojobi,Female,chideraawojobi@gmail.com,"<#30,000",5,Self Employed,Owned,PhD,Single,Urban,35-44,39,Freelance,Bike,False,Diploma,+2343886984936
+parent#184,OGB/2024/183,Ijeoma Ajibola,Male,ijeomaajibola@gmail.com,"#120, 001 - #200,000",5,Employed,Owned,Bachelor's Degree,Single,Urban,older,23,Full-time,Bus,True,None,+2346549690147
+parent#185,OGB/2024/184,Nneka Tajudeen,Male,nnekatajudeen@gmail.com,">#200,001",0,Self Employed,Owned,PhD,Widowed,Urban,45-54,28,Full-time,Bike,False,None,+2341684078591
+parent#186,OGB/2024/185,Ifeoma Ojo,Female,ifeomaojo@gmail.com,"<#30,000",1,Unemployed,Rent,High School,Married,Urban,older,47,Part-time,Trekking,True,PhD,+2347614306997
+parent#187,OGB/2024/186,Ada Ogundipe,Female,adaogundipe@gmail.com,"<#30,000",3,Employed,Owned,Master's Degree,Divorced,Suburban,older,9,Freelance,Bus,True,None,+2346528412331
+parent#188,OGB/2024/187,Ololade Aiyegbusi,Male,ololadeaiyegbusi@gmail.com,"#30,001 - #70,000",more than 5,Unemployed,Owned,Master's Degree,Married,Rural,45-54,28,Full-time,Car,False,Diploma,+2344298479493
+parent#189,OGB/2024/188,Chinwe Aiyegbusi,Male,chinweaiyegbusi@gmail.com,"#70, 001 - #120,000",1,Unemployed,Rent,High School,Widowed,Rural,older,38,Full-time,Car,True,Bachelors,+2341646724373
+parent#190,OGB/2024/189,Aderonke Ezeani,Female,aderonkeezeani@gmail.com,"#70, 001 - #120,000",5,Employed,Rent,High School,Single,Suburban,older,49,Full-time,Trekking,False,PhD,+2345477330907
+parent#191,OGB/2024/190,Chinonso Abiola,Male,chinonsoabiola@gmail.com,"#30,001 - #70,000",1,Self Employed,Owned,Associate Degree,Single,Rural,35-44,2,Freelance,Bus,True,PhD,+2346924672281
+parent#192,OGB/2024/191,Ifeoma Adeola,Male,ifeomaadeola@gmail.com,"<#30,000",2,Unemployed,Owned,PhD,Widowed,Suburban,55-64,42,Full-time,Car,True,Bachelors,+2349763378972
+parent#193,OGB/2024/192,Chukwuemeka Ojo,Female,chukwuemekaojo@gmail.com,"<#30,000",3,Unemployed,Owned,Associate Degree,Divorced,Suburban,older,59,Part-time,Car,False,Diploma,+2347161946294
+parent#194,OGB/2024/193,Ujunwa Suleiman,Female,ujunwasuleiman@gmail.com,"#120, 001 - #200,000",0,Self Employed,Owned,Bachelor's Degree,Single,Urban,25-34,32,Part-time,Car,False,None,+2341112748733
+parent#195,OGB/2024/194,Obiageli Olaniyi,Female,obiageliolaniyi@gmail.com,"#70, 001 - #120,000",1,Unemployed,Rent,High School,Single,Urban,35-44,49,Freelance,Bus,False,Bachelors,+2343573594440
+parent#196,OGB/2024/195,Opeyemi Okafor,Female,opeyemiokafor@gmail.com,"#30,001 - #70,000",4,Unemployed,Rent,Associate Degree,Widowed,Urban,25-34,12,Freelance,Trekking,False,Diploma,+2349601941558
+parent#197,OGB/2024/196,Olufemi Onyekachi,Female,olufemionyekachi@gmail.com,"#120, 001 - #200,000",5,Employed,Owned,Master's Degree,Single,Rural,25-34,49,Full-time,Bike,True,Diploma,+2346349866419
+parent#198,OGB/2024/197,Ugo Ojo,Female,ugoojo@gmail.com,"<#30,000",5,Employed,Owned,High School,Divorced,Suburban,older,13,Part-time,Bike,False,Diploma,+2342466684707
+parent#199,OGB/2024/198,Ihuoma Kalu,Female,ihuomakalu@gmail.com,"#120, 001 - #200,000",3,Self Employed,Rent,Bachelor's Degree,Single,Suburban,55-64,46,Full-time,Car,True,None,+2347510701005
+parent#200,OGB/2024/199,Duru Nduka,Female,durunduka@gmail.com,"<#30,000",2,Unemployed,Rent,PhD,Divorced,Suburban,45-54,20,Freelance,Trekking,False,None,+2343276483960
+parent#201,OGB/2024/200,Amina Onyekachi,Male,aminaonyekachi@gmail.com,"#120, 001 - #200,000",1,Unemployed,Owned,Associate Degree,Married,Rural,35-44,2,Part-time,Car,False,Masters,+2347035216541
+parent#202,OGB/2024/201,Oluwaseun Okwudili,Male,oluwaseunokwudili@gmail.com,"<#30,000",5,Self Employed,Rent,PhD,Married,Urban,45-54,36,Freelance,Bus,True,PhD,+2343418073058
+parent#203,OGB/2024/202,Ada Olaniyi,Female,adaolaniyi@gmail.com,"#120, 001 - #200,000",0,Self Employed,Rent,Master's Degree,Single,Suburban,older,0,Freelance,Bus,True,None,+2346307728222
+parent#204,OGB/2024/203,Ihuoma Tajudeen,Female,ihuomatajudeen@gmail.com,"<#30,000",1,Self Employed,Rent,Associate Degree,Widowed,Urban,45-54,60,Full-time,Car,True,Masters,+2346676402384
+parent#205,OGB/2024/204,Ugo Nwosu,Female,ugonwosu@gmail.com,"#30,001 - #70,000",3,Employed,Rent,High School,Widowed,Urban,55-64,9,Part-time,Trekking,False,Diploma,+2343840364562
+parent#206,OGB/2024/205,Tobi Kalu,Female,tobikalu@gmail.com,"#120, 001 - #200,000",5,Self Employed,Rent,Bachelor's Degree,Single,Suburban,35-44,21,Part-time,Trekking,True,PhD,+2346867830047
+parent#207,OGB/2024/206,Chukwuemeka Ogundipe,Male,chukwuemekaogundipe@gmail.com,"#120, 001 - #200,000",0,Unemployed,Rent,Bachelor's Degree,Widowed,Suburban,55-64,55,Freelance,Car,False,PhD,+2344528651553
+parent#208,OGB/2024/207,Oluwaseun Suleiman,Female,oluwaseunsuleiman@gmail.com,"#70, 001 - #120,000",2,Unemployed,Rent,PhD,Single,Suburban,25-34,60,Freelance,Car,False,Bachelors,+2349769778410
+parent#209,OGB/2024/208,Nkechi Suleiman,Male,nkechisuleiman@gmail.com,"#120, 001 - #200,000",5,Self Employed,Rent,Bachelor's Degree,Single,Urban,45-54,16,Freelance,Trekking,False,Masters,+2344067844091
+parent#210,OGB/2024/209,Ada Obinna,Female,adaobinna@gmail.com,"#30,001 - #70,000",5,Unemployed,Owned,High School,Widowed,Suburban,older,58,Full-time,Trekking,False,None,+2347979394470
+parent#211,OGB/2024/210,Oluwaseun Hassan,Male,oluwaseunhassan@gmail.com,"#30,001 - #70,000",4,Employed,Rent,Bachelor's Degree,Married,Suburban,older,11,Part-time,Trekking,True,PhD,+2345522758283
+parent#212,OGB/2024/211,Kehinde Idowu,Male,kehindeidowu@gmail.com,"#70, 001 - #120,000",3,Employed,Owned,Master's Degree,Divorced,Suburban,25-34,22,Full-time,Trekking,False,Diploma,+2341892994637
+parent#213,OGB/2024/212,Funke Kalu,Male,funkekalu@gmail.com,"<#30,000",4,Unemployed,Rent,PhD,Single,Urban,45-54,29,Freelance,Bus,False,PhD,+2347692685951
+parent#214,OGB/2024/213,Chinonso Ajayi,Female,chinonsoajayi@gmail.com,"#30,001 - #70,000",1,Employed,Owned,High School,Single,Suburban,35-44,12,Full-time,Car,False,Bachelors,+2347949648358
+parent#215,OGB/2024/214,Oluwaseun Adesina,Male,oluwaseunadesina@gmail.com,">#200,001",2,Employed,Owned,PhD,Widowed,Rural,55-64,57,Full-time,Car,False,None,+2341793565790
+parent#216,OGB/2024/215,Ada Ogunleye,Male,adaogunleye@gmail.com,">#200,001",5,Employed,Owned,Master's Degree,Married,Suburban,25-34,41,Full-time,Car,True,Masters,+2341277087771
+parent#217,OGB/2024/216,Nkechi Obadiah,Male,nkechiobadiah@gmail.com,"<#30,000",2,Self Employed,Rent,High School,Married,Urban,35-44,3,Full-time,Bike,False,Bachelors,+2346977205339
+parent#218,OGB/2024/217,Obinna Dada,Female,obinnadada@gmail.com,"<#30,000",2,Self Employed,Owned,High School,Married,Rural,older,25,Part-time,Bike,False,Masters,+2345316320735
+parent#219,OGB/2024/218,Duru Ibrahim,Female,duruibrahim@gmail.com,"#70, 001 - #120,000",3,Employed,Owned,High School,Widowed,Urban,35-44,24,Full-time,Trekking,False,Diploma,+2349368508491
+parent#220,OGB/2024/219,Tunde Suleiman,Male,tundesuleiman@gmail.com,"#70, 001 - #120,000",4,Unemployed,Rent,Associate Degree,Widowed,Rural,45-54,9,Freelance,Bus,True,Masters,+2344998184156
+parent#221,OGB/2024/220,Damilola Tajudeen,Male,damilolatajudeen@gmail.com,"#120, 001 - #200,000",3,Employed,Rent,High School,Widowed,Rural,25-34,60,Freelance,Bike,False,Diploma,+2343214757242
+parent#222,OGB/2024/221,Ekene Abiola,Male,ekeneabiola@gmail.com,">#200,001",2,Employed,Owned,Associate Degree,Married,Suburban,55-64,18,Full-time,Car,False,Bachelors,+2344280722909
+parent#223,OGB/2024/222,Obiageli Okafor,Female,obiageliokafor@gmail.com,">#200,001",2,Unemployed,Owned,Bachelor's Degree,Widowed,Suburban,35-44,32,Freelance,Bike,False,Diploma,+2345570557852
+parent#224,OGB/2024/223,Kelechi Eze,Female,kelechieze@gmail.com,">#200,001",1,Employed,Owned,PhD,Divorced,Urban,35-44,4,Full-time,Bus,False,Bachelors,+2342150189847
+parent#225,OGB/2024/224,Ifeanyichukwu Obadiah,Male,ifeanyichukwuobadiah@gmail.com,"<#30,000",0,Self Employed,Owned,High School,Married,Suburban,35-44,14,Freelance,Bus,True,Bachelors,+2341281451607
+parent#226,OGB/2024/225,Sadiq Ogunleye,Female,sadiqogunleye@gmail.com,"#30,001 - #70,000",4,Self Employed,Rent,Associate Degree,Married,Rural,35-44,11,Full-time,Trekking,True,PhD,+2348287032823
+parent#227,OGB/2024/226,Duru Ibrahim,Female,duruibrahim@gmail.com,">#200,001",4,Employed,Rent,High School,Widowed,Rural,55-64,40,Full-time,Car,True,None,+2348432663268
+parent#228,OGB/2024/227,Ada Olatunde,Male,adaolatunde@gmail.com,"#70, 001 - #120,000",5,Unemployed,Owned,Associate Degree,Widowed,Suburban,35-44,12,Full-time,Car,True,None,+2347045772988
+parent#229,OGB/2024/228,Kelechi Akinyemi,Female,kelechiakinyemi@gmail.com,"<#30,000",2,Unemployed,Rent,Bachelor's Degree,Married,Urban,35-44,21,Part-time,Trekking,True,Diploma,+2341681151168
+parent#230,OGB/2024/229,Bimbo Nduka,Male,bimbonduka@gmail.com,"#30,001 - #70,000",more than 5,Self Employed,Owned,Master's Degree,Divorced,Urban,25-34,42,Full-time,Trekking,False,Bachelors,+2344079453436
+parent#231,OGB/2024/230,Ngozi Ogundipe,Male,ngoziogundipe@gmail.com,">#200,001",4,Self Employed,Rent,High School,Widowed,Urban,45-54,46,Full-time,Bus,False,None,+2347564088904
+parent#232,OGB/2024/231,Nneka Nwosu,Male,nnekanwosu@gmail.com,"<#30,000",0,Self Employed,Rent,Associate Degree,Married,Urban,35-44,28,Part-time,Car,True,PhD,+2341918583210
+parent#233,OGB/2024/232,Chika Tajudeen,Male,chikatajudeen@gmail.com,">#200,001",3,Unemployed,Rent,Bachelor's Degree,Divorced,Rural,25-34,1,Freelance,Bike,True,None,+2348637718187
+parent#234,OGB/2024/233,Chidera Ogunbiyi,Male,chideraogunbiyi@gmail.com,"<#30,000",more than 5,Self Employed,Owned,Associate Degree,Widowed,Urban,older,55,Freelance,Bike,True,Bachelors,+2345647877356
+parent#235,OGB/2024/234,Chinonso Nwosu,Male,chinonsonwosu@gmail.com,">#200,001",3,Unemployed,Rent,Associate Degree,Widowed,Urban,55-64,28,Part-time,Car,True,Diploma,+2344751414261
+parent#236,OGB/2024/235,Nnamdi Hassan,Male,nnamdihassan@gmail.com,">#200,001",4,Unemployed,Owned,Bachelor's Degree,Widowed,Rural,55-64,4,Freelance,Bike,True,None,+2348825588977
+parent#237,OGB/2024/236,Chukwuemeka Okafor,Female,chukwuemekaokafor@gmail.com,"#30,001 - #70,000",more than 5,Unemployed,Owned,High School,Married,Urban,55-64,53,Part-time,Trekking,True,Masters,+2342674525521
+parent#238,OGB/2024/237,Nnamdi Idowu,Male,nnamdiidowu@gmail.com,"#30,001 - #70,000",more than 5,Employed,Owned,Master's Degree,Married,Urban,older,15,Freelance,Trekking,False,None,+2348517451065
+parent#239,OGB/2024/238,Obinna Balogun,Female,obinnabalogun@gmail.com,"#70, 001 - #120,000",2,Employed,Rent,Bachelor's Degree,Single,Rural,older,38,Freelance,Bus,True,None,+2348549083668
+parent#240,OGB/2024/239,Funke Okeke,Female,funkeokeke@gmail.com,"<#30,000",2,Self Employed,Owned,Associate Degree,Divorced,Suburban,older,33,Part-time,Bike,False,PhD,+2341181759574
+parent#241,OGB/2024/240,Jumoke Ibrahim,Male,jumokeibrahim@gmail.com,"#30,001 - #70,000",0,Employed,Rent,Bachelor's Degree,Married,Urban,35-44,18,Full-time,Bike,False,Bachelors,+2348197295338
+parent#242,OGB/2024/241,Kanyinsola Obinna,Male,kanyinsolaobinna@gmail.com,"<#30,000",0,Unemployed,Owned,Associate Degree,Single,Urban,55-64,35,Part-time,Bus,True,Masters,+2343934250362
+parent#243,OGB/2024/242,Yemi Tajudeen,Male,yemitajudeen@gmail.com,"#70, 001 - #120,000",3,Unemployed,Rent,PhD,Divorced,Rural,35-44,10,Part-time,Bike,False,Diploma,+2342262003579
+parent#244,OGB/2024/243,Nkechi Ajayi,Female,nkechiajayi@gmail.com,"#30,001 - #70,000",5,Self Employed,Owned,Bachelor's Degree,Widowed,Urban,older,9,Part-time,Bike,True,None,+2349689853136
+parent#245,OGB/2024/244,Nkemdilim Okwudili,Male,nkemdilimokwudili@gmail.com,"#30,001 - #70,000",1,Unemployed,Rent,Master's Degree,Divorced,Rural,older,35,Freelance,Trekking,False,PhD,+2345658351000
+parent#246,OGB/2024/245,Ngozi Adeyemi,Male,ngoziadeyemi@gmail.com,"<#30,000",3,Employed,Rent,Associate Degree,Single,Rural,55-64,20,Full-time,Bus,False,Masters,+2346915334476
+parent#247,OGB/2024/246,Nkemdilim Akinyemi,Male,nkemdilimakinyemi@gmail.com,"#30,001 - #70,000",5,Employed,Rent,Associate Degree,Single,Suburban,older,3,Freelance,Trekking,True,None,+2344943000904
+parent#248,OGB/2024/247,Ayo Uba,Female,ayouba@gmail.com,"#70, 001 - #120,000",1,Employed,Rent,Bachelor's Degree,Widowed,Suburban,55-64,7,Full-time,Bike,True,Masters,+2344315873227
+parent#249,OGB/2024/248,Temitope Adebayo,Male,temitopeadebayo@gmail.com,"#70, 001 - #120,000",4,Unemployed,Rent,Associate Degree,Single,Rural,45-54,43,Freelance,Trekking,False,Bachelors,+2344138676512
+parent#250,OGB/2024/249,Oluwaseun Tajudeen,Male,oluwaseuntajudeen@gmail.com,"#120, 001 - #200,000",2,Self Employed,Owned,Associate Degree,Divorced,Suburban,45-54,4,Freelance,Bike,False,Diploma,+2342582144815
+parent#251,OGB/2024/250,Ololade Obinna,Male,ololadeobinna@gmail.com,"#30,001 - #70,000",4,Unemployed,Rent,Bachelor's Degree,Married,Urban,45-54,26,Part-time,Bike,True,Bachelors,+2349513913427
+parent#252,OGB/2024/251,Obinna Aiyegbusi,Male,obinnaaiyegbusi@gmail.com,"<#30,000",4,Self Employed,Rent,Bachelor's Degree,Divorced,Suburban,55-64,33,Part-time,Bus,True,PhD,+2345176753145
+parent#253,OGB/2024/252,Ada Fadeyi,Male,adafadeyi@gmail.com,"#70, 001 - #120,000",5,Employed,Owned,Master's Degree,Married,Urban,45-54,34,Full-time,Trekking,True,Masters,+2349854204279
+parent#254,OGB/2024/253,Oluwaseun Abubakar,Female,oluwaseunabubakar@gmail.com,">#200,001",1,Employed,Owned,Bachelor's Degree,Widowed,Urban,45-54,1,Full-time,Trekking,True,Diploma,+2348251009913
+parent#255,OGB/2024/254,Bola Olowu,Male,bolaolowu@gmail.com,"#70, 001 - #120,000",2,Employed,Rent,High School,Widowed,Rural,35-44,39,Full-time,Bike,True,Bachelors,+2345456204585
+parent#256,OGB/2024/255,Tunde Ogundipe,Male,tundeogundipe@gmail.com,"#120, 001 - #200,000",3,Unemployed,Owned,Master's Degree,Single,Urban,45-54,46,Full-time,Trekking,True,Bachelors,+2348958425729
+parent#257,OGB/2024/256,Sadiq Akanbi,Female,sadiqakanbi@gmail.com,"#120, 001 - #200,000",2,Employed,Rent,Bachelor's Degree,Divorced,Rural,older,10,Part-time,Car,False,Masters,+2342025711675
+parent#258,OGB/2024/257,Tunde Olaniyi,Male,tundeolaniyi@gmail.com,"#120, 001 - #200,000",0,Self Employed,Owned,PhD,Divorced,Rural,45-54,46,Part-time,Bike,False,PhD,+2344936276994
+parent#259,OGB/2024/258,Ijeoma Kalu,Female,ijeomakalu@gmail.com,">#200,001",more than 5,Unemployed,Owned,Bachelor's Degree,Divorced,Urban,25-34,59,Freelance,Bus,False,Masters,+2342524985960
+parent#260,OGB/2024/259,Olufemi Fadeyi,Female,olufemifadeyi@gmail.com,"#120, 001 - #200,000",2,Self Employed,Rent,Bachelor's Degree,Widowed,Suburban,35-44,20,Full-time,Bike,True,PhD,+2344044608073
+parent#261,OGB/2024/260,Temitope Nwankwo,Female,temitopenwankwo@gmail.com,"#30,001 - #70,000",0,Employed,Rent,PhD,Divorced,Urban,45-54,23,Freelance,Bike,True,PhD,+2341438841120
+parent#262,OGB/2024/261,Chinonso Ezeani,Female,chinonsoezeani@gmail.com,"#70, 001 - #120,000",3,Unemployed,Rent,Master's Degree,Widowed,Urban,35-44,2,Part-time,Trekking,True,Diploma,+2349996130630
+parent#263,OGB/2024/262,Ifeanyichukwu Ogunbiyi,Female,ifeanyichukwuogunbiyi@gmail.com,"#30,001 - #70,000",0,Unemployed,Rent,Associate Degree,Divorced,Urban,older,9,Full-time,Trekking,True,Masters,+2347871325709
+parent#264,OGB/2024/263,Ololade Akanbi,Male,ololadeakanbi@gmail.com,"#30,001 - #70,000",1,Unemployed,Rent,High School,Divorced,Suburban,older,57,Freelance,Bus,True,Diploma,+2347555028111
+parent#265,OGB/2024/264,Tobi Obi,Female,tobiobi@gmail.com,"#70, 001 - #120,000",2,Self Employed,Owned,PhD,Married,Urban,35-44,6,Freelance,Car,True,Masters,+2344381741645
+parent#266,OGB/2024/265,Olufemi Okafor,Male,olufemiokafor@gmail.com,"#120, 001 - #200,000",more than 5,Employed,Rent,Master's Degree,Single,Suburban,25-34,43,Part-time,Bike,True,Masters,+2343338085359
+parent#267,OGB/2024/266,Ayo Uba,Male,ayouba@gmail.com,"<#30,000",4,Unemployed,Owned,Associate Degree,Single,Suburban,older,14,Full-time,Bus,False,PhD,+2341853061625
+parent#268,OGB/2024/267,Ngozi Idowu,Male,ngoziidowu@gmail.com,">#200,001",0,Employed,Rent,PhD,Divorced,Rural,55-64,0,Freelance,Bike,True,Bachelors,+2343548280128
+parent#269,OGB/2024/268,Tunde Ojo,Male,tundeojo@gmail.com,">#200,001",0,Self Employed,Rent,PhD,Married,Suburban,older,24,Freelance,Bus,True,PhD,+2346145328533
+parent#270,OGB/2024/269,Chidera Adeyemi,Male,chideraadeyemi@gmail.com,"#70, 001 - #120,000",3,Self Employed,Rent,Associate Degree,Single,Suburban,45-54,0,Full-time,Bus,False,PhD,+2341931072706
+parent#271,OGB/2024/270,Ngozi Okeke,Male,ngoziokeke@gmail.com,"#30,001 - #70,000",2,Self Employed,Owned,Master's Degree,Divorced,Rural,25-34,36,Part-time,Bus,False,None,+2341969449751
+parent#272,OGB/2024/271,Yemi Nwosu,Male,yeminwosu@gmail.com,"#30,001 - #70,000",0,Self Employed,Owned,Bachelor's Degree,Divorced,Suburban,older,3,Freelance,Trekking,True,None,+2349084772460
+parent#273,OGB/2024/272,Sadiq Nwosu,Female,sadiqnwosu@gmail.com,"#120, 001 - #200,000",3,Unemployed,Owned,Bachelor's Degree,Divorced,Urban,35-44,52,Part-time,Car,True,Bachelors,+2344671396162
+parent#274,OGB/2024/273,Ifeanyichukwu Obadiah,Female,ifeanyichukwuobadiah@gmail.com,"#120, 001 - #200,000",2,Unemployed,Rent,Associate Degree,Divorced,Urban,45-54,24,Freelance,Trekking,True,Bachelors,+2344106811051
+parent#275,OGB/2024/274,Duru Ogunbiyi,Female,duruogunbiyi@gmail.com,"#120, 001 - #200,000",5,Unemployed,Owned,Bachelor's Degree,Single,Suburban,older,49,Freelance,Car,True,Masters,+2345106893220
+parent#276,OGB/2024/275,Adebisi Adeola,Female,adebisiadeola@gmail.com,"#120, 001 - #200,000",more than 5,Unemployed,Owned,PhD,Divorced,Urban,35-44,36,Freelance,Car,True,Bachelors,+2347463438053
+parent#277,OGB/2024/276,Duru Nwosu,Female,durunwosu@gmail.com,">#200,001",0,Unemployed,Rent,PhD,Widowed,Suburban,55-64,7,Freelance,Car,False,Bachelors,+2342672205455
+parent#278,OGB/2024/277,Kanyinsola Akinyemi,Male,kanyinsolaakinyemi@gmail.com,"#70, 001 - #120,000",0,Employed,Owned,Bachelor's Degree,Widowed,Urban,45-54,54,Full-time,Car,True,Masters,+2344830354490
+parent#279,OGB/2024/278,Doyin Ibrahim,Female,doyinibrahim@gmail.com,"#70, 001 - #120,000",2,Employed,Rent,High School,Divorced,Rural,older,14,Freelance,Bike,False,Bachelors,+2341793833723
+parent#280,OGB/2024/279,Bola Aiyegbusi,Male,bolaaiyegbusi@gmail.com,">#200,001",1,Self Employed,Owned,PhD,Single,Urban,25-34,48,Part-time,Bus,True,PhD,+2344523371522
+parent#281,OGB/2024/280,Temitope Hassan,Female,temitopehassan@gmail.com,"<#30,000",2,Employed,Owned,Associate Degree,Single,Suburban,55-64,40,Freelance,Bus,True,Masters,+2349716199001
+parent#282,OGB/2024/281,Olamide Kalu,Male,olamidekalu@gmail.com,">#200,001",2,Employed,Owned,Bachelor's Degree,Single,Urban,older,2,Part-time,Bike,False,Bachelors,+2345753436964
+parent#283,OGB/2024/282,Chinyere Nwosu,Female,chinyerenwosu@gmail.com,"#120, 001 - #200,000",more than 5,Employed,Owned,Associate Degree,Divorced,Rural,55-64,36,Part-time,Trekking,True,Diploma,+2348639170637
+parent#284,OGB/2024/283,Chinyere Dada,Male,chinyeredada@gmail.com,"#120, 001 - #200,000",more than 5,Unemployed,Owned,Master's Degree,Widowed,Suburban,55-64,34,Part-time,Car,True,PhD,+2344969952018
+parent#285,OGB/2024/284,Bimbo Eze,Male,bimboeze@gmail.com,"#30,001 - #70,000",4,Employed,Owned,Bachelor's Degree,Divorced,Rural,older,4,Freelance,Bike,True,Bachelors,+2346915420346
+parent#286,OGB/2024/285,Chinonso Nduka,Female,chinonsonduka@gmail.com,">#200,001",5,Self Employed,Owned,High School,Single,Rural,55-64,1,Part-time,Bike,False,None,+2348313636100
+parent#287,OGB/2024/286,Obiageli Ibrahim,Male,obiageliibrahim@gmail.com,"#70, 001 - #120,000",more than 5,Unemployed,Rent,High School,Married,Rural,25-34,41,Part-time,Trekking,True,None,+2346212809380
+parent#288,OGB/2024/287,Kehinde Obadiah,Male,kehindeobadiah@gmail.com,"#70, 001 - #120,000",4,Self Employed,Rent,PhD,Single,Urban,35-44,52,Part-time,Trekking,True,Diploma,+2348696935879
+parent#289,OGB/2024/288,Ololade Uba,Female,ololadeuba@gmail.com,"<#30,000",1,Self Employed,Rent,Associate Degree,Divorced,Urban,25-34,58,Part-time,Bus,True,None,+2341248872076
+parent#290,OGB/2024/289,Opeyemi Ogunleye,Male,opeyemiogunleye@gmail.com,"#120, 001 - #200,000",0,Employed,Owned,Master's Degree,Single,Urban,older,30,Part-time,Bike,False,Bachelors,+2342231951978
+parent#291,OGB/2024/290,Zainab Nduka,Male,zainabnduka@gmail.com,"#30,001 - #70,000",5,Unemployed,Owned,Associate Degree,Married,Urban,55-64,59,Part-time,Trekking,False,Diploma,+2347610939632
+parent#292,OGB/2024/291,Temitope Tajudeen,Female,temitopetajudeen@gmail.com,"<#30,000",2,Self Employed,Owned,Master's Degree,Divorced,Suburban,older,36,Freelance,Car,False,None,+2341969992961
+parent#293,OGB/2024/292,Sadiq Ezeani,Female,sadiqezeani@gmail.com,">#200,001",1,Employed,Owned,PhD,Divorced,Urban,25-34,41,Freelance,Bus,True,PhD,+2347345156560
+parent#294,OGB/2024/293,Nkechi Suleiman,Female,nkechisuleiman@gmail.com,"#70, 001 - #120,000",5,Self Employed,Rent,Bachelor's Degree,Widowed,Urban,45-54,24,Full-time,Trekking,False,Bachelors,+2344599462782
+parent#295,OGB/2024/294,Temiloluwa Adesina,Female,temiloluwaadesina@gmail.com,">#200,001",1,Employed,Owned,Bachelor's Degree,Widowed,Suburban,55-64,18,Full-time,Bus,True,PhD,+2343519243506
+parent#296,OGB/2024/295,Chinedu Adesina,Female,chineduadesina@gmail.com,"#120, 001 - #200,000",3,Unemployed,Rent,PhD,Single,Urban,35-44,43,Freelance,Bus,True,Bachelors,+2342749250097
+parent#297,OGB/2024/296,Temitope Ezeani,Male,temitopeezeani@gmail.com,"#70, 001 - #120,000",4,Unemployed,Rent,Master's Degree,Divorced,Urban,25-34,39,Full-time,Car,True,PhD,+2344105064001
+parent#298,OGB/2024/297,Kelechi Ibrahim,Male,kelechiibrahim@gmail.com,">#200,001",0,Self Employed,Owned,PhD,Single,Suburban,45-54,24,Full-time,Car,True,Masters,+2345044141808
+parent#299,OGB/2024/298,Oluwaseun Ogunyemi,Female,oluwaseunogunyemi@gmail.com,">#200,001",2,Unemployed,Owned,High School,Divorced,Suburban,25-34,28,Freelance,Trekking,True,Diploma,+2343172620347
+parent#300,OGB/2024/299,Obiageli Chukwuma,Female,obiagelichukwuma@gmail.com,"#70, 001 - #120,000",1,Employed,Rent,Bachelor's Degree,Divorced,Suburban,45-54,58,Part-time,Bus,True,Masters,+2341315686781
+parent#301,OGB/2024/300,Ada Olatunde,Male,adaolatunde@gmail.com,"#120, 001 - #200,000",0,Self Employed,Owned,High School,Widowed,Rural,older,47,Part-time,Car,False,None,+2347233251393
+parent#302,OGB/2024/301,Bimbo Akinyemi,Female,bimboakinyemi@gmail.com,"<#30,000",3,Self Employed,Owned,Bachelor's Degree,Widowed,Suburban,45-54,15,Part-time,Bike,True,PhD,+2346734602842
+parent#303,OGB/2024/302,Doyin Tajudeen,Male,doyintajudeen@gmail.com,"<#30,000",2,Unemployed,Rent,High School,Single,Urban,25-34,43,Part-time,Bus,True,Bachelors,+2342796451594
+parent#304,OGB/2024/303,Bukola Idowu,Male,bukolaidowu@gmail.com,"#30,001 - #70,000",1,Self Employed,Owned,Associate Degree,Widowed,Rural,older,31,Part-time,Trekking,False,None,+2345691069540
+parent#305,OGB/2024/304,Amina Ajibola,Male,aminaajibola@gmail.com,"#70, 001 - #120,000",more than 5,Self Employed,Owned,Master's Degree,Single,Rural,55-64,39,Part-time,Bike,False,Bachelors,+2345010545458
+parent#306,OGB/2024/305,Doyin Balogun,Female,doyinbalogun@gmail.com,"#120, 001 - #200,000",5,Unemployed,Owned,Master's Degree,Widowed,Urban,55-64,16,Part-time,Bus,False,Bachelors,+2342262498713
+parent#307,OGB/2024/306,Tobi Eze,Female,tobieze@gmail.com,"#30,001 - #70,000",5,Unemployed,Rent,Bachelor's Degree,Widowed,Suburban,35-44,22,Part-time,Car,False,Masters,+2344208964711
+parent#308,OGB/2024/307,Obinna Adebayo,Male,obinnaadebayo@gmail.com,"#70, 001 - #120,000",3,Unemployed,Rent,Bachelor's Degree,Married,Suburban,55-64,40,Part-time,Bus,False,Masters,+2348857999487
+parent#309,OGB/2024/308,Fisayo Awojobi,Male,fisayoawojobi@gmail.com,"#30,001 - #70,000",3,Unemployed,Owned,High School,Married,Suburban,35-44,29,Full-time,Car,False,PhD,+2343707882231
+parent#310,OGB/2024/309,Ololade Suleiman,Female,ololadesuleiman@gmail.com,"<#30,000",3,Employed,Owned,Associate Degree,Divorced,Suburban,55-64,30,Full-time,Car,False,Masters,+2342449516299
+parent#311,OGB/2024/310,Ada Johnson,Male,adajohnson@gmail.com,"#30,001 - #70,000",0,Unemployed,Rent,Bachelor's Degree,Single,Urban,45-54,58,Freelance,Car,False,None,+2346993612051
+parent#312,OGB/2024/311,Obinna Eze,Male,obinnaeze@gmail.com,"#70, 001 - #120,000",2,Unemployed,Owned,Bachelor's Degree,Divorced,Suburban,older,57,Part-time,Bike,False,None,+2349789042402
+parent#313,OGB/2024/312,Chidera Awojobi,Male,chideraawojobi@gmail.com,"#70, 001 - #120,000",2,Self Employed,Rent,Associate Degree,Single,Rural,45-54,9,Part-time,Car,False,Masters,+2343979360096
+parent#314,OGB/2024/313,Ijeoma Kalu,Male,ijeomakalu@gmail.com,"#30,001 - #70,000",4,Employed,Owned,Master's Degree,Single,Rural,45-54,29,Full-time,Bus,True,Diploma,+2345848100876
+parent#315,OGB/2024/314,Ijeoma Uba,Male,ijeomauba@gmail.com,"#70, 001 - #120,000",2,Employed,Owned,PhD,Single,Suburban,35-44,34,Full-time,Bus,False,PhD,+2345253126856
+parent#316,OGB/2024/315,Duru Tajudeen,Female,durutajudeen@gmail.com,"<#30,000",1,Employed,Owned,Associate Degree,Divorced,Rural,older,56,Part-time,Car,True,Bachelors,+2346167628255
+parent#317,OGB/2024/316,Damilola Nwodo,Male,damilolanwodo@gmail.com,"<#30,000",4,Unemployed,Owned,High School,Married,Rural,older,23,Part-time,Car,True,PhD,+2346972537466
+parent#318,OGB/2024/317,Chinyere Akinyemi,Male,chinyereakinyemi@gmail.com,"#70, 001 - #120,000",3,Unemployed,Owned,Master's Degree,Single,Rural,55-64,14,Freelance,Bike,True,Diploma,+2345412089004
+parent#319,OGB/2024/318,Obinna Abiola,Male,obinnaabiola@gmail.com,"<#30,000",5,Employed,Owned,PhD,Divorced,Urban,35-44,9,Full-time,Trekking,True,Diploma,+2342956910592
+parent#320,OGB/2024/319,Bukola Johnson,Male,bukolajohnson@gmail.com,"#70, 001 - #120,000",2,Unemployed,Owned,Master's Degree,Widowed,Suburban,older,18,Part-time,Car,False,Bachelors,+2344200443405
+parent#321,OGB/2024/320,Ihuoma Kalu,Female,ihuomakalu@gmail.com,"#30,001 - #70,000",more than 5,Unemployed,Owned,PhD,Widowed,Suburban,older,40,Part-time,Trekking,False,None,+2346233864644
+parent#322,OGB/2024/321,Kelechi Abiola,Male,kelechiabiola@gmail.com,"#120, 001 - #200,000",4,Unemployed,Owned,PhD,Married,Rural,45-54,46,Full-time,Bike,True,Diploma,+2349149673063
+parent#323,OGB/2024/322,Kehinde Nduka,Male,kehindenduka@gmail.com,">#200,001",1,Unemployed,Rent,Master's Degree,Single,Rural,25-34,11,Part-time,Trekking,False,Masters,+2342528129357
+parent#324,OGB/2024/323,Obiageli Adeyemi,Female,obiageliadeyemi@gmail.com,"#70, 001 - #120,000",5,Unemployed,Owned,Master's Degree,Single,Urban,older,24,Freelance,Car,False,Masters,+2348805663591
+parent#325,OGB/2024/324,Funke Abubakar,Male,funkeabubakar@gmail.com,"#30,001 - #70,000",more than 5,Self Employed,Owned,Master's Degree,Divorced,Urban,25-34,16,Full-time,Bike,False,Masters,+2346082681041
+parent#326,OGB/2024/325,Bukola Okeke,Male,bukolaokeke@gmail.com,">#200,001",1,Unemployed,Rent,Associate Degree,Married,Urban,45-54,56,Full-time,Bike,False,None,+2343456899562
+parent#327,OGB/2024/326,Yemi Balogun,Female,yemibalogun@gmail.com,"<#30,000",2,Self Employed,Owned,Bachelor's Degree,Widowed,Rural,older,10,Freelance,Trekking,False,Diploma,+2348934658811
+parent#328,OGB/2024/327,Bimbo Adebayo,Male,bimboadebayo@gmail.com,"#120, 001 - #200,000",1,Unemployed,Rent,Bachelor's Degree,Married,Urban,25-34,23,Full-time,Bike,True,None,+2344875855229
+parent#329,OGB/2024/328,Sadiq Nwodo,Female,sadiqnwodo@gmail.com,"#70, 001 - #120,000",3,Self Employed,Owned,PhD,Divorced,Urban,25-34,47,Full-time,Bus,False,Bachelors,+2343667942069
+parent#330,OGB/2024/329,Nneka Ajibola,Male,nnekaajibola@gmail.com,">#200,001",4,Self Employed,Owned,Bachelor's Degree,Married,Urban,older,1,Full-time,Bike,False,Masters,+2348865766768
+parent#331,OGB/2024/330,Fola Nwankwo,Female,folanwankwo@gmail.com,"#30,001 - #70,000",1,Employed,Owned,Master's Degree,Divorced,Rural,25-34,27,Full-time,Trekking,True,Diploma,+2345136607835
+parent#332,OGB/2024/331,Bukola Obadiah,Female,bukolaobadiah@gmail.com,">#200,001",2,Employed,Rent,Master's Degree,Married,Urban,older,51,Part-time,Trekking,True,None,+2341497479920
+parent#333,OGB/2024/332,Ngozi Nwosu,Female,ngozinwosu@gmail.com,"#30,001 - #70,000",2,Unemployed,Rent,Bachelor's Degree,Married,Rural,55-64,19,Part-time,Car,True,Diploma,+2343381691296
+parent#334,OGB/2024/333,Opeyemi Adesina,Male,opeyemiadesina@gmail.com,"<#30,000",0,Self Employed,Rent,High School,Widowed,Urban,35-44,9,Full-time,Trekking,False,Diploma,+2349526141003
+parent#335,OGB/2024/334,Obinna Obadiah,Female,obinnaobadiah@gmail.com,">#200,001",2,Unemployed,Rent,Associate Degree,Single,Rural,35-44,2,Part-time,Car,True,PhD,+2344351119302
+parent#336,OGB/2024/335,Tunde Okafor,Female,tundeokafor@gmail.com,"#70, 001 - #120,000",4,Employed,Owned,PhD,Single,Suburban,35-44,29,Part-time,Trekking,False,PhD,+2346766462946
+parent#337,OGB/2024/336,Chidera Adeola,Female,chideraadeola@gmail.com,">#200,001",5,Self Employed,Rent,High School,Divorced,Suburban,older,26,Full-time,Bike,True,Masters,+2346314702792
+parent#338,OGB/2024/337,Bola Awojobi,Male,bolaawojobi@gmail.com,"<#30,000",3,Self Employed,Rent,Master's Degree,Single,Rural,35-44,45,Full-time,Bike,False,Bachelors,+2343270353915
+parent#339,OGB/2024/338,Temiloluwa Aiyegbusi,Male,temiloluwaaiyegbusi@gmail.com,">#200,001",4,Employed,Rent,Master's Degree,Single,Urban,35-44,56,Part-time,Car,False,Bachelors,+2342750015570
+parent#340,OGB/2024/339,Kanyinsola Aiyegbusi,Female,kanyinsolaaiyegbusi@gmail.com,"#120, 001 - #200,000",1,Unemployed,Owned,Bachelor's Degree,Single,Urban,25-34,34,Part-time,Bike,True,Diploma,+2341910364493
+parent#341,OGB/2024/340,Nkechi Adeola,Female,nkechiadeola@gmail.com,"#120, 001 - #200,000",3,Employed,Rent,PhD,Widowed,Urban,55-64,54,Full-time,Trekking,True,Masters,+2348065803509
+parent#342,OGB/2024/341,Fola Dada,Male,foladada@gmail.com,"#70, 001 - #120,000",more than 5,Unemployed,Owned,Master's Degree,Single,Suburban,25-34,14,Part-time,Trekking,True,Bachelors,+2341533164924
+parent#343,OGB/2024/342,Kehinde Akinyemi,Male,kehindeakinyemi@gmail.com,"#70, 001 - #120,000",more than 5,Unemployed,Owned,PhD,Married,Urban,45-54,25,Freelance,Car,True,None,+2346886522514
+parent#344,OGB/2024/343,Obiageli Ogundipe,Male,obiageliogundipe@gmail.com,"#30,001 - #70,000",3,Self Employed,Rent,High School,Divorced,Rural,25-34,8,Part-time,Trekking,False,PhD,+2349667476679
+parent#345,OGB/2024/344,Ihuoma Ezeani,Female,ihuomaezeani@gmail.com,"#30,001 - #70,000",0,Employed,Rent,Associate Degree,Divorced,Rural,25-34,53,Full-time,Bike,False,Bachelors,+2344531566367
+parent#346,OGB/2024/345,Funke Olatunde,Female,funkeolatunde@gmail.com,"<#30,000",1,Unemployed,Rent,PhD,Married,Suburban,55-64,40,Full-time,Trekking,False,PhD,+2347474231449
+parent#347,OGB/2024/346,Tunde Akanbi,Male,tundeakanbi@gmail.com,"#120, 001 - #200,000",4,Self Employed,Owned,Associate Degree,Single,Suburban,older,22,Part-time,Car,False,PhD,+2346537714388
+parent#348,OGB/2024/347,Opeyemi Hassan,Female,opeyemihassan@gmail.com,"#120, 001 - #200,000",3,Employed,Rent,Bachelor's Degree,Married,Rural,55-64,13,Freelance,Trekking,False,Diploma,+2343465687015
+parent#349,OGB/2024/348,Chinwe Obi,Male,chinweobi@gmail.com,"<#30,000",5,Employed,Rent,PhD,Single,Suburban,55-64,60,Freelance,Car,False,Bachelors,+2345015629493
+parent#350,OGB/2024/349,Chinwe Okwudili,Male,chinweokwudili@gmail.com,"#70, 001 - #120,000",2,Self Employed,Owned,PhD,Divorced,Rural,55-64,25,Part-time,Trekking,False,PhD,+2344467433849
+parent#351,OGB/2024/350,Kelechi Ibrahim,Female,kelechiibrahim@gmail.com,"#120, 001 - #200,000",4,Unemployed,Rent,Associate Degree,Married,Rural,55-64,26,Part-time,Car,True,Diploma,+2348765601772
+parent#352,OGB/2024/351,Chika Ibrahim,Male,chikaibrahim@gmail.com,"<#30,000",5,Self Employed,Owned,PhD,Single,Rural,35-44,56,Part-time,Trekking,False,Bachelors,+2348115778131
+parent#353,OGB/2024/352,Sadiq Onyekachi,Male,sadiqonyekachi@gmail.com,"<#30,000",5,Employed,Rent,Associate Degree,Single,Rural,45-54,26,Full-time,Bike,True,Masters,+2348963737643
+parent#354,OGB/2024/353,Temitope Uba,Male,temitopeuba@gmail.com,"#120, 001 - #200,000",2,Self Employed,Owned,Associate Degree,Single,Rural,35-44,29,Part-time,Car,False,Bachelors,+2347537852544
+parent#355,OGB/2024/354,Chinonso Chukwuma,Male,chinonsochukwuma@gmail.com,"#30,001 - #70,000",3,Self Employed,Owned,Bachelor's Degree,Widowed,Suburban,25-34,46,Freelance,Car,True,None,+2348660206297
+parent#356,OGB/2024/355,Olufemi Idowu,Male,olufemiidowu@gmail.com,">#200,001",2,Employed,Owned,High School,Widowed,Urban,45-54,28,Full-time,Bus,True,None,+2347782954171
+parent#357,OGB/2024/356,Yemi Obadiah,Male,yemiobadiah@gmail.com,"#70, 001 - #120,000",3,Self Employed,Rent,High School,Married,Suburban,45-54,28,Part-time,Car,True,None,+2343442810769
+parent#358,OGB/2024/357,Tunde Olowu,Female,tundeolowu@gmail.com,">#200,001",3,Employed,Rent,Bachelor's Degree,Married,Suburban,35-44,60,Full-time,Trekking,True,Bachelors,+2345926034815
+parent#359,OGB/2024/358,Kelechi Akinyemi,Female,kelechiakinyemi@gmail.com,"#120, 001 - #200,000",3,Unemployed,Rent,Associate Degree,Divorced,Suburban,55-64,24,Full-time,Trekking,False,None,+2343428116280
+parent#360,OGB/2024/359,Obinna Ogunleye,Male,obinnaogunleye@gmail.com,"#30,001 - #70,000",3,Employed,Rent,Bachelor's Degree,Married,Rural,45-54,29,Part-time,Bike,False,Masters,+2342264470592
+parent#361,OGB/2024/360,Chinedu Ajibola,Female,chineduajibola@gmail.com,">#200,001",3,Self Employed,Rent,Master's Degree,Single,Urban,55-64,23,Freelance,Bus,True,Diploma,+2349106056762
+parent#362,OGB/2024/361,Ihuoma Abubakar,Female,ihuomaabubakar@gmail.com,"<#30,000",0,Self Employed,Rent,Master's Degree,Widowed,Rural,25-34,21,Part-time,Trekking,False,Diploma,+2344680076755
+parent#363,OGB/2024/362,Tunde Ogunleye,Female,tundeogunleye@gmail.com,"#70, 001 - #120,000",4,Employed,Owned,Associate Degree,Married,Rural,35-44,20,Freelance,Car,False,None,+2345094342863
+parent#364,OGB/2024/363,Damilola Akinyemi,Female,damilolaakinyemi@gmail.com,"<#30,000",0,Employed,Owned,Master's Degree,Widowed,Urban,45-54,42,Part-time,Bike,False,None,+2344824838803
+parent#365,OGB/2024/364,Amina Akinyemi,Male,aminaakinyemi@gmail.com,">#200,001",more than 5,Employed,Rent,High School,Married,Rural,55-64,25,Full-time,Bike,False,PhD,+2341465380627
+parent#366,OGB/2024/365,Zainab Obi,Female,zainabobi@gmail.com,"<#30,000",3,Unemployed,Rent,Associate Degree,Widowed,Suburban,35-44,8,Full-time,Trekking,True,Bachelors,+2346252864882
+parent#367,OGB/2024/366,Ifeanyichukwu Okeke,Male,ifeanyichukwuokeke@gmail.com,"#120, 001 - #200,000",0,Unemployed,Owned,Associate Degree,Single,Rural,35-44,46,Freelance,Bus,False,None,+2344352342737
+parent#368,OGB/2024/367,Ekene Ogunleye,Male,ekeneogunleye@gmail.com,"#70, 001 - #120,000",more than 5,Self Employed,Owned,Associate Degree,Married,Urban,45-54,33,Part-time,Trekking,False,Bachelors,+2347141264617
+parent#369,OGB/2024/368,Chukwuemeka Ogunyemi,Male,chukwuemekaogunyemi@gmail.com,"#30,001 - #70,000",1,Self Employed,Rent,Bachelor's Degree,Single,Urban,25-34,13,Full-time,Car,False,PhD,+2345530213482
+parent#370,OGB/2024/369,Fola Kalu,Male,folakalu@gmail.com,"#120, 001 - #200,000",4,Employed,Rent,Bachelor's Degree,Widowed,Urban,45-54,15,Part-time,Car,True,Masters,+2347691166260
+parent#371,OGB/2024/370,Chinwe Nwosu,Female,chinwenwosu@gmail.com,"<#30,000",2,Employed,Rent,High School,Divorced,Urban,55-64,13,Part-time,Bus,False,PhD,+2345960690720
+parent#372,OGB/2024/371,Chika Johnson,Male,chikajohnson@gmail.com,">#200,001",more than 5,Self Employed,Rent,Associate Degree,Married,Urban,25-34,45,Full-time,Car,True,None,+2343749807613
+parent#373,OGB/2024/372,Chika Ogundipe,Male,chikaogundipe@gmail.com,">#200,001",1,Self Employed,Owned,Associate Degree,Widowed,Rural,older,12,Part-time,Trekking,False,Diploma,+2344829425048
+parent#374,OGB/2024/373,Tobi Olaniyi,Male,tobiolaniyi@gmail.com,"<#30,000",4,Unemployed,Rent,Associate Degree,Married,Urban,45-54,36,Freelance,Car,False,PhD,+2348052061218
+parent#375,OGB/2024/374,Obinna Ajayi,Female,obinnaajayi@gmail.com,"#70, 001 - #120,000",4,Unemployed,Owned,Master's Degree,Widowed,Urban,25-34,12,Full-time,Bus,True,Bachelors,+2346222280165
+parent#376,OGB/2024/375,Chidera Akanbi,Male,chideraakanbi@gmail.com,"<#30,000",2,Unemployed,Owned,High School,Single,Urban,older,60,Part-time,Trekking,False,Bachelors,+2343605890125
+parent#377,OGB/2024/376,Amina Hassan,Female,aminahassan@gmail.com,"<#30,000",1,Employed,Rent,Associate Degree,Widowed,Suburban,25-34,55,Freelance,Bike,True,Bachelors,+2349194196378
+parent#378,OGB/2024/377,Obiageli Abubakar,Male,obiageliabubakar@gmail.com,"#120, 001 - #200,000",4,Unemployed,Owned,Associate Degree,Married,Suburban,older,46,Part-time,Trekking,True,PhD,+2343792543023
+parent#379,OGB/2024/378,Obinna Nduka,Female,obinnanduka@gmail.com,"<#30,000",4,Self Employed,Rent,PhD,Divorced,Urban,25-34,42,Freelance,Car,True,Masters,+2343234278606
+parent#380,OGB/2024/379,Ujunwa Obi,Female,ujunwaobi@gmail.com,"#120, 001 - #200,000",4,Employed,Rent,Bachelor's Degree,Widowed,Rural,45-54,50,Freelance,Bike,True,PhD,+2343850066815
+parent#381,OGB/2024/380,Amina Adeola,Male,aminaadeola@gmail.com,"#70, 001 - #120,000",2,Employed,Rent,High School,Divorced,Suburban,25-34,39,Part-time,Car,False,Diploma,+2345215931523
+parent#382,OGB/2024/381,Chukwuemeka Adesina,Female,chukwuemekaadesina@gmail.com,"#70, 001 - #120,000",0,Unemployed,Owned,Master's Degree,Widowed,Suburban,35-44,23,Freelance,Trekking,True,Masters,+2347159619661
+parent#383,OGB/2024/382,Sadiq Ojo,Male,sadiqojo@gmail.com,"#70, 001 - #120,000",more than 5,Unemployed,Rent,Associate Degree,Single,Suburban,25-34,57,Full-time,Bus,True,PhD,+2349718525452
+parent#384,OGB/2024/383,Yemi Adeyemi,Male,yemiadeyemi@gmail.com,"#70, 001 - #120,000",more than 5,Self Employed,Rent,Bachelor's Degree,Divorced,Urban,older,29,Freelance,Trekking,True,PhD,+2344367580995
+parent#385,OGB/2024/384,Nnamdi Uba,Female,nnamdiuba@gmail.com,"#120, 001 - #200,000",3,Employed,Rent,High School,Widowed,Rural,25-34,35,Full-time,Bike,False,Diploma,+2348572479459
+parent#386,OGB/2024/385,Yemi Balogun,Female,yemibalogun@gmail.com,"<#30,000",1,Unemployed,Rent,Master's Degree,Divorced,Rural,25-34,55,Freelance,Bus,True,Bachelors,+2345924662203
+parent#387,OGB/2024/386,Oluwaseun Idowu,Female,oluwaseunidowu@gmail.com,">#200,001",3,Unemployed,Owned,PhD,Divorced,Suburban,45-54,48,Part-time,Car,False,None,+2348133591111
+parent#388,OGB/2024/387,Bola Obinna,Male,bolaobinna@gmail.com,"#70, 001 - #120,000",5,Unemployed,Rent,Master's Degree,Divorced,Suburban,55-64,50,Part-time,Bike,False,PhD,+2347659836199
+parent#389,OGB/2024/388,Ifeanyichukwu Nwosu,Male,ifeanyichukwunwosu@gmail.com,"#120, 001 - #200,000",0,Employed,Owned,Associate Degree,Single,Urban,45-54,26,Freelance,Bike,False,Bachelors,+2347755611093
+parent#390,OGB/2024/389,Bukola Ogunbiyi,Male,bukolaogunbiyi@gmail.com,">#200,001",3,Self Employed,Owned,Master's Degree,Divorced,Suburban,25-34,23,Part-time,Trekking,False,Diploma,+2346775517373
+parent#391,OGB/2024/390,Olamide Obi,Female,olamideobi@gmail.com,"<#30,000",more than 5,Employed,Owned,Master's Degree,Divorced,Rural,older,41,Freelance,Car,False,PhD,+2343707344826
+parent#392,OGB/2024/391,Amina Uba,Female,aminauba@gmail.com,"#120, 001 - #200,000",more than 5,Self Employed,Rent,Master's Degree,Divorced,Suburban,older,19,Full-time,Bus,False,PhD,+2341930427819
+parent#393,OGB/2024/392,Funke Obi,Female,funkeobi@gmail.com,"#70, 001 - #120,000",more than 5,Unemployed,Owned,Associate Degree,Widowed,Rural,45-54,13,Part-time,Car,False,Diploma,+2347707854414
+parent#394,OGB/2024/393,Olufemi Fadeyi,Female,olufemifadeyi@gmail.com,"#120, 001 - #200,000",4,Unemployed,Owned,High School,Married,Suburban,25-34,25,Freelance,Bus,False,Bachelors,+2348768488336
+parent#395,OGB/2024/394,Ada Nduka,Female,adanduka@gmail.com,"#120, 001 - #200,000",3,Self Employed,Owned,Master's Degree,Single,Urban,35-44,9,Part-time,Trekking,True,Bachelors,+2344789393297
+parent#396,OGB/2024/395,Amina Obinna,Male,aminaobinna@gmail.com,"<#30,000",more than 5,Unemployed,Rent,Associate Degree,Widowed,Rural,35-44,30,Full-time,Trekking,True,PhD,+2344292053797
+parent#397,OGB/2024/396,Ngozi Adebayo,Male,ngoziadebayo@gmail.com,"#70, 001 - #120,000",0,Self Employed,Rent,Bachelor's Degree,Married,Suburban,older,6,Full-time,Bus,False,PhD,+2345811161965
+parent#398,OGB/2024/397,Ololade Olatunde,Female,ololadeolatunde@gmail.com,">#200,001",0,Self Employed,Owned,Associate Degree,Divorced,Rural,55-64,34,Part-time,Car,False,Masters,+2344621979605
+parent#399,OGB/2024/398,Olamide Nduka,Male,olamidenduka@gmail.com,"<#30,000",0,Employed,Owned,Master's Degree,Widowed,Rural,35-44,41,Part-time,Trekking,False,Bachelors,+2348633095811
+parent#400,OGB/2024/399,Ifeoma Tajudeen,Female,ifeomatajudeen@gmail.com,"<#30,000",2,Self Employed,Owned,Bachelor's Degree,Widowed,Suburban,older,28,Part-time,Bus,True,Masters,+2341639744153
+parent#401,OGB/2024/400,Ijeoma Nwodo,Female,ijeomanwodo@gmail.com,"#30,001 - #70,000",more than 5,Self Employed,Owned,Bachelor's Degree,Single,Suburban,35-44,19,Full-time,Trekking,True,None,+2348615599166
+parent#402,OGB/2024/401,Chidera Uba,Female,chiderauba@gmail.com,"<#30,000",5,Unemployed,Owned,Master's Degree,Single,Urban,45-54,57,Full-time,Car,True,None,+2344861149438
+parent#403,OGB/2024/402,Yemi Balogun,Female,yemibalogun@gmail.com,"<#30,000",0,Unemployed,Rent,PhD,Married,Suburban,25-34,53,Part-time,Bike,False,None,+2344670637658
+parent#404,OGB/2024/403,Fisayo Adebayo,Male,fisayoadebayo@gmail.com,"#30,001 - #70,000",2,Self Employed,Rent,Master's Degree,Widowed,Suburban,35-44,49,Freelance,Bus,False,Bachelors,+2346000396191
+parent#405,OGB/2024/404,Nkechi Ogundipe,Female,nkechiogundipe@gmail.com,"<#30,000",4,Employed,Owned,PhD,Divorced,Suburban,older,55,Full-time,Bus,False,PhD,+2344231244980
+parent#406,OGB/2024/405,Obinna Ezeani,Female,obinnaezeani@gmail.com,"#70, 001 - #120,000",0,Self Employed,Owned,High School,Married,Rural,45-54,39,Part-time,Bike,False,Bachelors,+2341004201248
+parent#407,OGB/2024/406,Funke Nduka,Female,funkenduka@gmail.com,"#120, 001 - #200,000",more than 5,Self Employed,Owned,Bachelor's Degree,Widowed,Suburban,older,26,Freelance,Trekking,True,Bachelors,+2347502144996
+parent#408,OGB/2024/407,Nneka Olowu,Female,nnekaolowu@gmail.com,"#30,001 - #70,000",2,Unemployed,Owned,Master's Degree,Divorced,Rural,35-44,3,Part-time,Bus,True,PhD,+2347873633190
+parent#409,OGB/2024/408,Duru Nwankwo,Male,durunwankwo@gmail.com,"#30,001 - #70,000",4,Self Employed,Rent,PhD,Single,Urban,55-64,12,Part-time,Trekking,True,PhD,+2342671971874
+parent#410,OGB/2024/409,Nnamdi Ogunbiyi,Female,nnamdiogunbiyi@gmail.com,"<#30,000",3,Self Employed,Owned,High School,Single,Rural,35-44,13,Freelance,Car,True,PhD,+2345288282161
+parent#411,OGB/2024/410,Tobi Obi,Female,tobiobi@gmail.com,"#30,001 - #70,000",5,Self Employed,Rent,Associate Degree,Married,Suburban,older,21,Part-time,Car,False,Bachelors,+2341867835419
+parent#412,OGB/2024/411,Chukwuemeka Akanbi,Female,chukwuemekaakanbi@gmail.com,"#70, 001 - #120,000",2,Unemployed,Owned,PhD,Single,Rural,35-44,35,Freelance,Bus,False,Masters,+2349938746508
+parent#413,OGB/2024/412,Sadiq Okwudili,Male,sadiqokwudili@gmail.com,">#200,001",more than 5,Unemployed,Owned,Associate Degree,Single,Suburban,55-64,56,Part-time,Bus,False,None,+2347923014252
+parent#414,OGB/2024/413,Nkechi Nduka,Male,nkechinduka@gmail.com,"<#30,000",0,Unemployed,Owned,Associate Degree,Divorced,Urban,25-34,10,Freelance,Bus,True,Masters,+2341109458663
+parent#415,OGB/2024/414,Ngozi Dada,Male,ngozidada@gmail.com,"<#30,000",0,Self Employed,Rent,Bachelor's Degree,Divorced,Suburban,older,42,Full-time,Car,True,None,+2345060219510
+parent#416,OGB/2024/415,Ada Okeke,Male,adaokeke@gmail.com,"#70, 001 - #120,000",5,Unemployed,Owned,Bachelor's Degree,Divorced,Suburban,25-34,24,Full-time,Trekking,True,Bachelors,+2349830393713
+parent#417,OGB/2024/416,Doyin Hassan,Male,doyinhassan@gmail.com,"<#30,000",4,Employed,Rent,Bachelor's Degree,Widowed,Rural,older,59,Part-time,Trekking,False,Masters,+2348079331031
+parent#418,OGB/2024/417,Adebisi Uba,Male,adebisiuba@gmail.com,"<#30,000",5,Self Employed,Rent,PhD,Married,Urban,25-34,33,Freelance,Bike,True,Bachelors,+2345639013227
+parent#419,OGB/2024/418,Bimbo Adebayo,Female,bimboadebayo@gmail.com,"<#30,000",4,Employed,Owned,High School,Divorced,Rural,45-54,27,Freelance,Trekking,True,PhD,+2348463495033
+parent#420,OGB/2024/419,Temitope Ojo,Female,temitopeojo@gmail.com,"#70, 001 - #120,000",5,Unemployed,Rent,PhD,Single,Urban,45-54,11,Full-time,Car,True,PhD,+2345528285106
+parent#421,OGB/2024/420,Tobi Okwudili,Male,tobiokwudili@gmail.com,"<#30,000",5,Employed,Owned,PhD,Single,Urban,25-34,60,Freelance,Bike,False,None,+2341616963987
+parent#422,OGB/2024/421,Nnamdi Abubakar,Female,nnamdiabubakar@gmail.com,"#70, 001 - #120,000",0,Self Employed,Owned,Master's Degree,Divorced,Urban,45-54,28,Freelance,Car,True,None,+2348430191989
+parent#423,OGB/2024/422,Ololade Okeke,Male,ololadeokeke@gmail.com,"#70, 001 - #120,000",5,Unemployed,Owned,High School,Single,Suburban,35-44,1,Freelance,Trekking,False,Bachelors,+2346496700122
+parent#424,OGB/2024/423,Kanyinsola Awojobi,Male,kanyinsolaawojobi@gmail.com,">#200,001",1,Employed,Rent,Associate Degree,Single,Urban,older,44,Full-time,Trekking,True,None,+2347422130581
+parent#425,OGB/2024/424,Nnamdi Abiola,Female,nnamdiabiola@gmail.com,"#120, 001 - #200,000",4,Self Employed,Owned,Associate Degree,Widowed,Urban,older,13,Full-time,Car,False,None,+2346504004690
+parent#426,OGB/2024/425,Ololade Obadiah,Female,ololadeobadiah@gmail.com,"#70, 001 - #120,000",1,Unemployed,Owned,Master's Degree,Single,Rural,35-44,24,Part-time,Bike,False,None,+2341697125957
+parent#427,OGB/2024/426,Bimbo Okafor,Male,bimbookafor@gmail.com,"#30,001 - #70,000",4,Employed,Rent,Associate Degree,Single,Rural,25-34,36,Freelance,Trekking,True,PhD,+2349001594091
+parent#428,OGB/2024/427,Opeyemi Ajibola,Female,opeyemiajibola@gmail.com,"#30,001 - #70,000",5,Self Employed,Rent,High School,Single,Suburban,55-64,42,Part-time,Trekking,True,None,+2343883612800
+parent#429,OGB/2024/428,Ekene Ajayi,Female,ekeneajayi@gmail.com,">#200,001",3,Self Employed,Rent,Associate Degree,Divorced,Urban,35-44,11,Full-time,Car,True,PhD,+2343561140603
+parent#430,OGB/2024/429,Fisayo Hassan,Female,fisayohassan@gmail.com,"#120, 001 - #200,000",1,Employed,Rent,Bachelor's Degree,Widowed,Suburban,older,17,Part-time,Car,True,Bachelors,+2342479833057
+parent#431,OGB/2024/430,Nnamdi Abiola,Female,nnamdiabiola@gmail.com,"<#30,000",1,Unemployed,Rent,Master's Degree,Widowed,Suburban,35-44,47,Freelance,Car,True,Diploma,+2349985370172
+parent#432,OGB/2024/431,Bukola Abiola,Male,bukolaabiola@gmail.com,"#30,001 - #70,000",5,Unemployed,Owned,High School,Divorced,Suburban,older,43,Full-time,Bike,False,Bachelors,+2349042104415
+parent#433,OGB/2024/432,Ujunwa Dada,Male,ujunwadada@gmail.com,"#70, 001 - #120,000",5,Self Employed,Rent,Bachelor's Degree,Single,Suburban,45-54,36,Part-time,Bike,False,PhD,+2348842636165
+parent#434,OGB/2024/433,Yemi Balogun,Male,yemibalogun@gmail.com,"#30,001 - #70,000",more than 5,Employed,Rent,Master's Degree,Divorced,Rural,55-64,49,Full-time,Trekking,True,Diploma,+2349258487235
+parent#435,OGB/2024/434,Ifeoma Nwosu,Male,ifeomanwosu@gmail.com,">#200,001",1,Employed,Rent,Associate Degree,Widowed,Urban,older,9,Freelance,Trekking,True,Bachelors,+2344964641601
+parent#436,OGB/2024/435,Opeyemi Ajayi,Female,opeyemiajayi@gmail.com,"#120, 001 - #200,000",2,Self Employed,Owned,Master's Degree,Divorced,Rural,55-64,41,Part-time,Bus,False,PhD,+2345217582539
+parent#437,OGB/2024/436,Zainab Obinna,Female,zainabobinna@gmail.com,"#120, 001 - #200,000",5,Self Employed,Owned,Associate Degree,Divorced,Urban,55-64,25,Full-time,Bus,True,PhD,+2348635334634
+parent#438,OGB/2024/437,Damilola Ogundipe,Male,damilolaogundipe@gmail.com,"<#30,000",2,Employed,Rent,Bachelor's Degree,Single,Suburban,25-34,36,Freelance,Car,False,Bachelors,+2345392613687
+parent#439,OGB/2024/438,Nkechi Nwankwo,Female,nkechinwankwo@gmail.com,">#200,001",5,Employed,Rent,Bachelor's Degree,Divorced,Rural,older,50,Part-time,Car,True,Masters,+2342128713445
+parent#440,OGB/2024/439,Temitope Abiola,Female,temitopeabiola@gmail.com,">#200,001",0,Unemployed,Owned,Master's Degree,Divorced,Urban,25-34,51,Part-time,Bus,True,Bachelors,+2345167393775
+parent#441,OGB/2024/440,Chinwe Onyekachi,Male,chinweonyekachi@gmail.com,"#30,001 - #70,000",more than 5,Unemployed,Owned,Master's Degree,Divorced,Urban,45-54,12,Freelance,Car,False,Bachelors,+2341852290085
+parent#442,OGB/2024/441,Ololade Ezeani,Female,ololadeezeani@gmail.com,">#200,001",3,Employed,Owned,High School,Divorced,Rural,35-44,9,Freelance,Bus,False,None,+2342949341504
+parent#443,OGB/2024/442,Fisayo Ibrahim,Female,fisayoibrahim@gmail.com,"#120, 001 - #200,000",4,Self Employed,Owned,Bachelor's Degree,Widowed,Urban,45-54,26,Part-time,Bus,False,Bachelors,+2349295242396
+parent#444,OGB/2024/443,Sadiq Adeola,Female,sadiqadeola@gmail.com,"#120, 001 - #200,000",5,Employed,Owned,Master's Degree,Divorced,Urban,35-44,20,Full-time,Trekking,False,Bachelors,+2344996944007
+parent#445,OGB/2024/444,Olufemi Ojo,Male,olufemiojo@gmail.com,"#70, 001 - #120,000",1,Employed,Rent,Associate Degree,Widowed,Urban,35-44,29,Part-time,Bike,False,Diploma,+2346165207446
+parent#446,OGB/2024/445,Opeyemi Abiola,Female,opeyemiabiola@gmail.com,"#70, 001 - #120,000",0,Self Employed,Rent,Associate Degree,Widowed,Rural,55-64,15,Part-time,Bike,False,Bachelors,+2342723623221
+parent#447,OGB/2024/446,Ujunwa Ojo,Male,ujunwaojo@gmail.com,"#120, 001 - #200,000",0,Employed,Owned,Master's Degree,Widowed,Rural,35-44,55,Full-time,Trekking,False,Diploma,+2344982151132
+parent#448,OGB/2024/447,Opeyemi Ajayi,Female,opeyemiajayi@gmail.com,"#30,001 - #70,000",0,Self Employed,Owned,PhD,Married,Suburban,55-64,47,Part-time,Car,True,PhD,+2342993960210
+parent#449,OGB/2024/448,Tunde Ojo,Female,tundeojo@gmail.com,"<#30,000",1,Self Employed,Rent,High School,Widowed,Rural,25-34,8,Freelance,Bus,False,Diploma,+2344898275173
+parent#450,OGB/2024/449,Tunde Ojo,Male,tundeojo@gmail.com,"#70, 001 - #120,000",4,Employed,Owned,Master's Degree,Married,Rural,45-54,48,Full-time,Trekking,True,None,+2343912128282
+parent#451,OGB/2024/450,Bola Idowu,Male,bolaidowu@gmail.com,"#70, 001 - #120,000",0,Employed,Rent,High School,Widowed,Urban,25-34,59,Part-time,Car,True,Bachelors,+2349927495769
+parent#452,OGB/2024/451,Nkemdilim Okwudili,Female,nkemdilimokwudili@gmail.com,"<#30,000",4,Employed,Owned,Bachelor's Degree,Divorced,Rural,55-64,31,Full-time,Car,True,PhD,+2341701723862
+parent#453,OGB/2024/452,Nkechi Chukwuma,Male,nkechichukwuma@gmail.com,"#70, 001 - #120,000",0,Employed,Owned,High School,Single,Rural,older,20,Part-time,Bus,False,Masters,+2342631355498
+parent#454,OGB/2024/453,Uche Fadeyi,Male,uchefadeyi@gmail.com,">#200,001",1,Self Employed,Owned,Master's Degree,Widowed,Rural,25-34,39,Full-time,Bus,False,None,+2342812044807
+parent#455,OGB/2024/454,Jumoke Uba,Female,jumokeuba@gmail.com,"#30,001 - #70,000",1,Unemployed,Rent,High School,Divorced,Urban,older,59,Full-time,Bus,False,None,+2342364751383
+parent#456,OGB/2024/455,Ihuoma Obi,Male,ihuomaobi@gmail.com,"#30,001 - #70,000",0,Self Employed,Owned,Associate Degree,Married,Rural,25-34,48,Freelance,Bike,False,Masters,+2347303842526
+parent#457,OGB/2024/456,Tobi Eze,Female,tobieze@gmail.com,"<#30,000",3,Self Employed,Owned,Bachelor's Degree,Single,Suburban,45-54,39,Full-time,Bus,False,Bachelors,+2349488715564
+parent#458,OGB/2024/457,Chukwuemeka Johnson,Male,chukwuemekajohnson@gmail.com,"<#30,000",0,Employed,Owned,Associate Degree,Single,Rural,older,33,Part-time,Trekking,False,PhD,+2342614826577
+parent#459,OGB/2024/458,Kehinde Adesina,Female,kehindeadesina@gmail.com,"#120, 001 - #200,000",more than 5,Unemployed,Rent,PhD,Divorced,Urban,older,47,Part-time,Car,False,Masters,+2341817706810
+parent#460,OGB/2024/459,Chidera Obadiah,Female,chideraobadiah@gmail.com,"<#30,000",4,Unemployed,Rent,PhD,Divorced,Rural,older,40,Freelance,Bike,True,Masters,+2342921952148
+parent#461,OGB/2024/460,Chinyere Obi,Female,chinyereobi@gmail.com,"#30,001 - #70,000",3,Unemployed,Owned,Master's Degree,Divorced,Rural,older,56,Part-time,Car,False,None,+2347636535341
+parent#462,OGB/2024/461,Tunde Olaniyi,Male,tundeolaniyi@gmail.com,"<#30,000",3,Self Employed,Rent,Master's Degree,Married,Urban,older,2,Freelance,Car,False,Bachelors,+2346613944246
+parent#463,OGB/2024/462,Jumoke Nwosu,Male,jumokenwosu@gmail.com,"#30,001 - #70,000",0,Employed,Owned,High School,Divorced,Suburban,55-64,43,Full-time,Car,True,Bachelors,+2343545004477
+parent#464,OGB/2024/463,Kehinde Obi,Male,kehindeobi@gmail.com,"#120, 001 - #200,000",0,Self Employed,Rent,Master's Degree,Widowed,Urban,older,6,Part-time,Bike,True,Diploma,+2347780922380
+parent#465,OGB/2024/464,Kelechi Ibrahim,Male,kelechiibrahim@gmail.com,"#120, 001 - #200,000",2,Unemployed,Rent,Master's Degree,Widowed,Urban,35-44,50,Part-time,Car,True,Masters,+2341205237720
+parent#466,OGB/2024/465,Olufemi Ojo,Female,olufemiojo@gmail.com,"#30,001 - #70,000",3,Unemployed,Rent,Master's Degree,Divorced,Rural,45-54,4,Part-time,Bike,True,Masters,+2349006346563
+parent#467,OGB/2024/466,Temitope Obinna,Female,temitopeobinna@gmail.com,"#120, 001 - #200,000",3,Employed,Rent,High School,Single,Urban,45-54,5,Part-time,Bus,True,Masters,+2344510969640
+parent#468,OGB/2024/467,Tunde Ogunyemi,Female,tundeogunyemi@gmail.com,"<#30,000",1,Self Employed,Rent,Bachelor's Degree,Single,Rural,35-44,1,Freelance,Bike,False,None,+2347146784303
+parent#469,OGB/2024/468,Ifeanyichukwu Okafor,Male,ifeanyichukwuokafor@gmail.com,"#70, 001 - #120,000",more than 5,Self Employed,Rent,Master's Degree,Widowed,Rural,55-64,0,Freelance,Bus,True,Masters,+2341227204294
+parent#470,OGB/2024/469,Adebisi Akanbi,Male,adebisiakanbi@gmail.com,"#30,001 - #70,000",1,Employed,Owned,Bachelor's Degree,Divorced,Rural,35-44,58,Full-time,Trekking,True,Diploma,+2342940202689
+parent#471,OGB/2024/470,Bola Okwudili,Male,bolaokwudili@gmail.com,">#200,001",more than 5,Self Employed,Rent,High School,Married,Urban,45-54,55,Freelance,Bus,False,Bachelors,+2348224344340
+parent#472,OGB/2024/471,Nneka Dada,Male,nnekadada@gmail.com,">#200,001",more than 5,Unemployed,Rent,PhD,Married,Rural,55-64,55,Full-time,Bus,False,None,+2344573414614
+parent#473,OGB/2024/472,Chinyere Obadiah,Female,chinyereobadiah@gmail.com,">#200,001",4,Employed,Owned,Master's Degree,Single,Urban,55-64,3,Freelance,Trekking,False,PhD,+2347005908641
+parent#474,OGB/2024/473,Adebisi Johnson,Female,adebisijohnson@gmail.com,"#70, 001 - #120,000",2,Self Employed,Owned,PhD,Single,Rural,55-64,21,Freelance,Trekking,False,None,+2343294293463
+parent#475,OGB/2024/474,Oluwaseun Okafor,Male,oluwaseunokafor@gmail.com,"#70, 001 - #120,000",more than 5,Self Employed,Rent,Bachelor's Degree,Divorced,Rural,55-64,54,Full-time,Trekking,False,Masters,+2344984372237
+parent#476,OGB/2024/475,Nnamdi Nwodo,Female,nnamdinwodo@gmail.com,"#120, 001 - #200,000",4,Self Employed,Owned,Master's Degree,Widowed,Suburban,25-34,5,Part-time,Bus,False,Diploma,+2349182096509
+parent#477,OGB/2024/476,Nkemdilim Akanbi,Female,nkemdilimakanbi@gmail.com,"#30,001 - #70,000",5,Employed,Rent,Bachelor's Degree,Widowed,Urban,55-64,20,Freelance,Car,True,None,+2343204996671
+parent#478,OGB/2024/477,Chinwe Chukwuma,Female,chinwechukwuma@gmail.com,">#200,001",3,Self Employed,Owned,PhD,Married,Suburban,25-34,59,Full-time,Bus,True,Masters,+2344930627502
+parent#479,OGB/2024/478,Bola Eze,Male,bolaeze@gmail.com,"<#30,000",more than 5,Employed,Owned,Bachelor's Degree,Widowed,Urban,55-64,57,Freelance,Trekking,True,Bachelors,+2341322889502
+parent#480,OGB/2024/479,Sadiq Chukwuma,Female,sadiqchukwuma@gmail.com,"#30,001 - #70,000",5,Employed,Rent,High School,Widowed,Suburban,25-34,22,Full-time,Car,False,Diploma,+2344581821730
+parent#481,OGB/2024/480,Obinna Balogun,Male,obinnabalogun@gmail.com,"#30,001 - #70,000",4,Unemployed,Owned,Associate Degree,Single,Suburban,45-54,12,Freelance,Bus,True,Masters,+2343744752409
+parent#482,OGB/2024/481,Uche Ogunbiyi,Male,ucheogunbiyi@gmail.com,"#70, 001 - #120,000",0,Unemployed,Rent,Master's Degree,Divorced,Suburban,older,47,Freelance,Bus,False,None,+2349066728060
+parent#483,OGB/2024/482,Chidera Awojobi,Male,chideraawojobi@gmail.com,"#120, 001 - #200,000",3,Self Employed,Owned,PhD,Widowed,Rural,55-64,9,Part-time,Bus,True,Diploma,+2344553324308
+parent#484,OGB/2024/483,Ifeanyichukwu Olaniyi,Female,ifeanyichukwuolaniyi@gmail.com,"#120, 001 - #200,000",1,Employed,Owned,Master's Degree,Married,Suburban,older,13,Full-time,Car,False,Masters,+2346125551262
+parent#485,OGB/2024/484,Ekene Ajibola,Female,ekeneajibola@gmail.com,">#200,001",5,Employed,Owned,High School,Married,Suburban,55-64,19,Part-time,Trekking,False,None,+2349476884146
+parent#486,OGB/2024/485,Obiageli Ajayi,Female,obiageliajayi@gmail.com,">#200,001",0,Self Employed,Owned,Associate Degree,Married,Suburban,45-54,53,Part-time,Car,False,PhD,+2347640556632
+parent#487,OGB/2024/486,Temiloluwa Akanbi,Male,temiloluwaakanbi@gmail.com,"#30,001 - #70,000",1,Self Employed,Owned,High School,Divorced,Suburban,55-64,4,Freelance,Bus,True,PhD,+2347899839564
+parent#488,OGB/2024/487,Chinedu Nwosu,Male,chinedunwosu@gmail.com,"#120, 001 - #200,000",1,Unemployed,Rent,Bachelor's Degree,Divorced,Urban,45-54,23,Full-time,Bus,False,Masters,+2344549076340
+parent#489,OGB/2024/488,Ayo Okafor,Female,ayookafor@gmail.com,"#30,001 - #70,000",more than 5,Self Employed,Rent,PhD,Divorced,Rural,25-34,39,Part-time,Trekking,False,Diploma,+2343316533133
+parent#490,OGB/2024/489,Fisayo Obi,Female,fisayoobi@gmail.com,"<#30,000",5,Self Employed,Owned,Bachelor's Degree,Widowed,Suburban,older,58,Part-time,Bike,True,None,+2344765153311
+parent#491,OGB/2024/490,Yemi Akinyemi,Female,yemiakinyemi@gmail.com,"#70, 001 - #120,000",5,Unemployed,Rent,Associate Degree,Divorced,Urban,25-34,20,Full-time,Bus,False,Diploma,+2346662663704
+parent#492,OGB/2024/491,Fola Ojo,Female,folaojo@gmail.com,"#120, 001 - #200,000",1,Self Employed,Owned,PhD,Married,Urban,35-44,37,Full-time,Bike,False,None,+2345420195482
+parent#493,OGB/2024/492,Temitope Abubakar,Male,temitopeabubakar@gmail.com,"#30,001 - #70,000",1,Unemployed,Owned,PhD,Widowed,Suburban,25-34,57,Part-time,Trekking,True,PhD,+2348517357684
+parent#494,OGB/2024/493,Ijeoma Balogun,Female,ijeomabalogun@gmail.com,"#70, 001 - #120,000",4,Self Employed,Owned,Master's Degree,Single,Rural,45-54,53,Full-time,Car,False,PhD,+2345393402303
+parent#495,OGB/2024/494,Olufemi Ojo,Female,olufemiojo@gmail.com,">#200,001",5,Unemployed,Owned,Master's Degree,Married,Rural,older,28,Full-time,Trekking,True,Masters,+2347136173390
+parent#496,OGB/2024/495,Aderonke Okwudili,Female,aderonkeokwudili@gmail.com,"<#30,000",5,Self Employed,Rent,High School,Divorced,Rural,older,30,Freelance,Car,False,None,+2345271206218
+parent#497,OGB/2024/496,Amina Awojobi,Male,aminaawojobi@gmail.com,"#30,001 - #70,000",4,Self Employed,Owned,Master's Degree,Widowed,Suburban,older,21,Freelance,Bike,False,Bachelors,+2347243051607
+parent#498,OGB/2024/497,Temiloluwa Abiola,Male,temiloluwaabiola@gmail.com,"#120, 001 - #200,000",1,Employed,Rent,Bachelor's Degree,Single,Urban,35-44,45,Part-time,Trekking,False,Diploma,+2344006956201
+parent#499,OGB/2024/498,Fola Obinna,Male,folaobinna@gmail.com,"<#30,000",3,Employed,Rent,High School,Single,Rural,45-54,11,Full-time,Car,True,PhD,+2349324481501
+parent#500,OGB/2024/499,Tunde Johnson,Male,tundejohnson@gmail.com,"<#30,000",3,Unemployed,Owned,High School,Divorced,Rural,25-34,18,Part-time,Bus,False,None,+2344403349322

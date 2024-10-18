@@ -1,0 +1,4 @@
+steps to follow
+
+1. git clone the repository 
+2. run in your command line ---- streamlit run app.py
